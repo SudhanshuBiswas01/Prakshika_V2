@@ -1,0 +1,1202 @@
+[
+  {
+    "chunk_id": "ch1_p11_0000",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 11,
+    "chapter": 1,
+    "token_count": 95,
+    "content": "1\n1. What are the effects of a force acting on an object? \n2. What types of forces are you familiar with? \n3. What do you know about the gravitational force? \n1. Gravitation \n\t\nWe have seen in the previous standard that the gravitational force is a universal force \nand it acts not only between two objects on the earth but also between any two objects in \nthe universe. Let us now learn how this force was discovered."
+  },
+  {
+    "chunk_id": "ch1_p11_0001",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Gravitation",
+    "content_type": "prose",
+    "page": 11,
+    "chapter": 1,
+    "token_count": 228,
+    "content": "Gravitation\nAs we have learnt, the phenomenon of gravitation was discovered by Sir Isaac \nNewton. As the story goes, he discovered the force by seeing an apple fall from a tree on \nthe ground. He wondered why all apples fall vertically downward and not at an angle to \nthe vertical. Why do they not fly off in a horizontal direction? \nAfter much thought, he came to the conclusion that the earth must be attracting the \napple towards itself and this attractive force must be directed towards the center of the \nearth. The direction from the apple on the tree to the center of the earth is the vertical \ndirection at the position of the apple and thus, the apple falls vertically downwards.  \n\t\nFigure 1.1 on the left shows an apple tree \non the earth. The force on an apple on the tree \nis towards the center of the earth i.e. along the \nperpendicular from the position of the apple \nto the surface of the earth. The Figure also \nshows the gravitational force between the \nearth and the moon. The distances in the \nfigure are not according to scale."
+  },
+  {
+    "chunk_id": "ch1_p11_0002",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Ø\t Gravitation",
+    "content_type": "prose",
+    "page": 11,
+    "chapter": 1,
+    "token_count": 234,
+    "content": "Ø\t Gravitation\t\n\t\nØ    Circular motion and centripetal force\t\nØ  Kepler’s laws   \nØ    Newton’s universal law of gravitation \nØ   Acceleration due to the gravitational force of the Earth\t\nØ\t Free fall\t                   Ø  Escape velocity \n\t\nNewton thought that if the force of \ngravitation acts on apples on the tree at \ndifferent heights from the surface of the earth, \ncan it also act on objects at even greater \nheights, much farther away from the earth, \nlike for example, the moon? Can it act on \neven farther objects like the other planets and \nthe Sun?\n\nUse of ICT : Collect videos and ppts about the gravitational force of different planets.\n\nForce and Motion\n\t\nWe have seen that a force is necessary to change the speed as well as the direction of \nmotion of an object. \n1.1 Concept of the gravitational force and \nthe gravitational force between the earth \nand the moon.\n\nWhat are Newton’s laws of motion?\n\nMoon\nGravitational\nforce\nEarth\nFalling \napple\nCan you recall?\n\nCan you recall?\n\n."
+  },
+  {
+    "chunk_id": "ch1_p12_0003",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Introduction to scientist",
+    "content_type": "prose",
+    "page": 12,
+    "chapter": 1,
+    "token_count": 606,
+    "content": "2\nIntroduction to scientist\nGreat Scientists: Sir Isaac Newton (1642-1727) was one of \nthe greatest scientists of recent times. He was born in England. \nHe gave his laws of motion, equations of motion and theory of \ngravity in his book Principia. Before this book was written, \nKepler had given three laws describing planetary motions. \nHowever, the reason why planets move in the way described by \nKepler’s laws was not known. Newton, with his theory of \ngravity, mathematically derived Kepler’s laws. \nTry this\n\t\nTie a stone to one end of a string. Take the other end in your \nhand and rotate the string so that the stone moves along a circle \nas shown in figure 1.2 a. Are you applying any force on the \nstone? In which direction is this force acting?  How will you \nstop this force from acting? What will be the effect on the stone? \nAs long as we are holding the string, we are pulling the \nstone towards us i.e. towards the centre of the circle and are \napplying a force towards it. The force stops acting if we release \nthe string. In this case, the stone will fly off along a straight line \nwhich is the tangent to the circle at the position of the stone \nwhen the string is released, because that is the direction of its \nvelocity at that instant of time (Figure 1.2 b). You may recall \nthat we have performed a similar activity previously in which a \n5 rupee coin kept on a rotating circular disk flies off the disk \nalong the tangent to the disk. Thus, a force acts on any object \nmoving along a circle and it is directed towards the centre of the \ncircle. This is called the Centripetal force.  ‘Centripetal’ means \ncentre seeking, i.e. the object tries to go towards the centre of the \ncircle because of this force. \n1.2 A stone tied to a string, \nmoving along a circular \npath and its velocity in \ntangential direction\nIn addition to this, Newton did ground breaking work in several areas including \nlight, heat, sound and mathematics. He invented a new branch of mathematics. This is \ncalled calculus and has wide ranging applications in physics and mathematics. He was \nthe  first scientist to construct a reflecting telescope. \nYou know that the moon, which is the natural satellite of the earth, goes round it in a \ndefinite orbit. The direction of motion of the moon as well as its speed constantly changes \nduring this motion. Do you think some force is constantly acting on the moon? What must \nbe the direction of this force? How would its motion have been if no such force acted on \nit? Do the other planets in the solar system revolve around the Sun in a similar fashion? Is \nsimilar force acting on them? What must be its direction?"
+  },
+  {
+    "chunk_id": "ch1_p12_0004",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Circular motion and Centripetal force",
+    "content_type": "prose",
+    "page": 12,
+    "chapter": 1,
+    "token_count": 86,
+    "content": "From the above activity, example and questions it is clear that for the moon to go \naround the earth, there must be a force which is exerted on the moon and this force must \nbe exerted  by the earth which attracts the moon towards itself. Similarly, the Sun must be \nattracting the planets, including the earth, towards itself.  \nCircular motion and Centripetal force\nb.\n\na."
+  },
+  {
+    "chunk_id": "ch1_p13_0005",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "An ellipse is the curve obtained when",
+    "content_type": "prose",
+    "page": 13,
+    "chapter": 1,
+    "token_count": 306,
+    "content": "3\n\t\nAn ellipse is the curve obtained when \na cone is cut by an inclined plane. It has \ntwo focal points. The sum of the distances \nto the two focal points from every point \non the curve is constant. F1 and F2 are two \nfocal points of the ellipse shown in figure \n1.3.  If A, B and C are three points on the \nellipse then,  \nAF1 + AF2  = BF1 + BF2  = CF1 + CF2 \nKepler’s Laws\nPlanetary motion had been observed by astronomers since ancient times. Before \nGalileo, all observations of the planet’s positions were made with naked eyes. By the 16th \ncentury a lot of data were available about planetary positions and motion. Johannes \nKepler, studied these data. He noticed that the motion of planets follows certain laws. He \nstated three laws describing planetary motion. These are known as Kepler’s laws which \nare given below. \n1.3 An ellipse\nThe straight lines AS and CS sweep equal area in equal interval of time i.e. area ASB \nand CSD are equal.  \n1.4  The orbit of a planet moving \naround the Sun.  \n\t\nThe orbit of a planet is an ellipse \nwith the Sun at one of the foci. \n\t\nFigure 1.4 shows the elliptical orbit of \na planet revolving around the sun. The \nposition of the Sun is indicated by S."
+  },
+  {
+    "chunk_id": "ch1_p13_0006",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Kepler’s second law :",
+    "content_type": "prose",
+    "page": 13,
+    "chapter": 1,
+    "token_count": 217,
+    "content": "Kepler’s second law : \n\t\n The line joining the planet and the \nSun sweeps equal areas in equal intervals \nof time. \n\t\nAB and CD are distances covered by \nthe planet in equal time i.e. after equal in­\ntervals of time, the positions of the planet \nstarting from A and C are shown by B and \nD respectively.\n\nKepler’s third law  :  \n\t\nThe square of its period of revolution around the Sun is directly proportional to \nthe cube of the mean distance of a planet from the Sun.\n\nThus, if r is the average distance of the planet from the Sun and T is its period of \nrevolution then,\n\t\nT2 a r3  i.e.\n\nKepler’s first law : \nA\nC\nF1\nF2\nKepler obtained these laws simply from the study of the positions of planets obtained \nby regular observations. He had no explanation as to why planets obey these laws. We \nwill see below how these laws helped Newton in the formulation of his theory of gravitation.\n\nDo you know ?"
+  },
+  {
+    "chunk_id": "ch1_p13_0007",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Planet",
+    "content_type": "prose",
+    "page": 13,
+    "chapter": 1,
+    "token_count": 41,
+    "content": "T2\nr3 =  constant = K  ............. (1)\nB\nA\nB\nC\nD\nS\nE\nF\n1\nSun\nPlanet\n2\n3"
+  },
+  {
+    "chunk_id": "ch1_p14_0008",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "From equation (2), it can be seen that",
+    "content_type": "prose",
+    "page": 14,
+    "chapter": 1,
+    "token_count": 457,
+    "content": "4\nFrom equation (2), it can be seen that \nthe value of G is the gravitational force \nacting between two unit masses kept at a \nunit distance away from each other. Thus, \nin SI units, the value of G is equal to the \ngravitational force between two masses of \n1 kg kept 1 m apart.\t\n\t\nShow that in SI units, the unit of G \nis Newton m2 kg-2. The value of G was \nfirst experimentally measured by Henry \nCavendish. In SI units its value is \n6.673 x 10-11 N m2 kg-2.  \nUse your brain power\nIf the area ESF in  figure 1.4 is equal to area ASB, what \nwill you infer about EF?   \nAn introduction to scientists\nJohannes Kepler (1571-1630) was a German astronomer \nand mathematician. He started working as a helper to the famous \nastronomer Tycho Brahe in Prague in 1600.  After the sudden \ndeath of Brahe in 1601, Kepler was appointed as the Royal \nmathematician in his place. Kepler used the observations of \nplanetary positions made by Brahe to discover the laws of \nplanetary motion.  He wrote several books. His work was later \nused by Newton in postulating his law of gravitation. \n1.5 Gravitational force between\n two objects \n\t\nFigure 1.5 shows two objects with masses m1 and \nm2 kept at a distance d from each other. Mathematically, \nthe gravitational force of attraction between these two \nbodies can be written as\nm1m2\n   d2\nF a\n....... (2)\nm1m2\n   d2\nF =  G \nor\nNewton’s universal law of gravitation\n\t\nAll the above considerations including Kepler’s laws led Newton to formulate his \ntheory of Universal gravity. According to this theory, every object in the Universe attracts \nevery other object with a definite force. This force is directly proportional to the product \nof the masses of the two objects and is inversely proportional to the square of the distance \nbetween them."
+  },
+  {
+    "chunk_id": "ch1_p14_0009",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power",
+    "content_type": "prose",
+    "page": 14,
+    "chapter": 1,
+    "token_count": 149,
+    "content": "Here, G is the constant of proportionality and is called the Universal gravitational \nconstant.\n\nThe above law means that if the mass of one object is doubled, the force between the \ntwo objects also doubles. Also, if the distance is doubled, the force decreases by a factor \nof 4. If the two bodies are spherical, the direction of the force is always along the line \njoining the centres of the two bodies and the distance between the centres is taken to be d. \nIn case when the bodies are not spherical or have irregular shape, then the direction of \nforce is along the line joining their centres of mass and d is taken to be the distance \nbetween the two centres of mass.\n\nd \nUse your brain power"
+  },
+  {
+    "chunk_id": "ch1_p15_0010",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Why did Newton assume inverse square dependence on distance in his law of",
+    "content_type": "prose",
+    "page": 15,
+    "chapter": 1,
+    "token_count": 268,
+    "content": "5\n\t\nThe distance travelled by the planet in one revolution =perimeter of the orbit 2 p r ;\nr = distance of the planet from the Sun, Time taken = Period of revolution = T\nWhy did Newton assume inverse square dependence on distance in his law of \ngravitation? He was helped by Kepler’s third law in this as shown below.  \nUniform circular motion / Magnitude of centripetal force\nConsider an object moving in a circle with constant speed. We have seen earlier that \nsuch a motion is possible only when the object is constantly acted upon by a force directed \ntowards the centre of the circle. This force is called the centripetal force. If m is the mass \nof the object, v is its speed and r is the radius of the circle, then it can be shown that this \nforce is equal to F = m v2/r.  \nIf a planet is revolving around the Sun in a circular \norbit in uniform circular motion, then the centripetal force \nacting on the planet towards the Sun must be F = mv2/r, \nwhere, m is the mass of the planet, v is its speed and r is its \ndistance from the Sun.  \nThe speed of the planet can be expressed in terms of the period of revolution T as \nfollows."
+  },
+  {
+    "chunk_id": "ch1_p15_0011",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 15,
+    "chapter": 1,
+    "token_count": 217,
+    "content": "The centre of mass of an object is the point inside or outside the object at which the \ntotal mass of the object can be assumed to be concentrated. The centre of mass of a \nspherical object having uniform density is at its geometrical centre. The centre of mass \nof any object having uniform density is at its centroid.\n\nThus, Newton concluded that the centripetal force which is the force acting on the \nplanet and is responsible for its circular motion, must be inversely proportional to the \nsquare of the distance between the planet and the Sun. Newton identified this force with \nthe force of gravity and hence postulated the inverse square law of gravitation. The \ngravitational force is much weaker than other forces in nature but it controls the Universe \nand decides its future.  This is possible because of the huge masses of planets, stars and \nother constituents of the Universe.\n\nIs there a gravitational force between two objects kept on a table or between you \nand your friend sitting next to you? If yes, why don’t the two move towards each other?"
+  },
+  {
+    "chunk_id": "ch1_p15_0012",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power",
+    "content_type": "prose",
+    "page": 15,
+    "chapter": 1,
+    "token_count": 170,
+    "content": "Use your brain power\nSpeed = distance travelled \ntime taken\n4 m p 2   \n T2\n(\nr3\n(\n  F =                ´\nT2\nr3\n= K\n, multiplying and dividing by r2  we get,\n4 m p 2     \nr2 K\nF =    \nmv2\n  r \nF =              = \n2 p r\nT )\n(\n2\nr\n= 4 m p2 r\nT2\nm\nv =                                   = \n\t\n\t    2pr \n\t\n         T \n\t\n  distance travelled \n\t\n       time taken  \n.  According to Kepler’s third law,\n4 m p 2   \nK\n, But\n= Constant \nr2\n1  \nr2\n1  \nr2\n\\ F = constant ´\n\\ F   α"
+  },
+  {
+    "chunk_id": "ch1_p16_0013",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "worked_example",
+    "page": 16,
+    "chapter": 1,
+    "token_count": 250,
+    "content": "6 Example 1 : Mahendra and Virat are sitting at a distance of 1 metre from each other. Their masses are 75 kg and 80 kg respectively. What is the gravitational force between them? Given : r = 1 m, m1 = 75 kg, m2 = 80 kg and G = 6.67 x 10 -11 Nm2/kg2 According to Newton’s law F = G m1m2 r2 6.67 x 10-11 x 75 x 80 12 N F = = 4.002 x 10-7 N The gravitational force between Mahendra and Virat is 4.002 x 10-7 N This is a very small force. If the force of friction between Mahendra and the bench on which he is sitting is zero, then he will start moving towards Virat under the action of this force. We can calculate his acceleration and velocity by using Newton’s laws of mo­ tion. Example 2 : In the above example, assuming that the bench on which Mahendra is sitting is frictionless, starting with zero velocity, what will be Mahendra’s velocity of motion towards Virat after 1 s ? Will"
+  },
+  {
+    "chunk_id": "ch1_p16_0014",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "worked_example",
+    "page": 16,
+    "chapter": 1,
+    "token_count": 69,
+    "content": "this velocity change with time and how? Assuming the bench to be frictionless, v = 0 + 5.34 x 10-9 x 1 m/s = 5.34 x 10-9 m/s Mahendra’s velocity after 1 s will be 5.34 x 10-9 m/s ."
+  },
+  {
+    "chunk_id": "ch1_p16_0015",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "This is an extremely small velocity.",
+    "content_type": "prose",
+    "page": 16,
+    "chapter": 1,
+    "token_count": 141,
+    "content": "This is an extremely small velocity. \nThe velocity will increase with time because \nof the acceleration. The acceleration will \nalso not remain constant because as \nMahendra moves towards Virat, the \ndistance between them will decrease, \ncausing an increase in the gravitational \nforce, thereby  increasing the acceleration \nas per Newton’s second law of motion.\n\na =         = \nF\nm\n 4.002  x 10-7 \n      75\n= 5.34 x 10-9  m/s2 \nAssuming the acceleration in Example 2 above remains \nconstant, how long will Mahendra take to move 1 cm \ntowards Virat?"
+  },
+  {
+    "chunk_id": "ch1_p16_0016",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "You must  be knowing about the high and",
+    "content_type": "prose",
+    "page": 16,
+    "chapter": 1,
+    "token_count": 240,
+    "content": "You must  be knowing about the high and \nlow tides that occur regularly in the sea. The \nlevel of sea water at any given location along \nsea shore increases and decreases twice a day \nat regular intervals. High and low tides occur at \ndifferent times at different places. The level of \nwater in the sea changes because of the \ngravitational force exerted by the moon. Water \nLow tide\nHigh \ntide\ndirectly under the moon gets pulled towards the moon and the level of water there goes up \ncausing high tide at that place. At two places on the earth at  90o from the place of high \ntide, the level of water is minimum and low tides occur there as shown in figure 1.6\n1.6  Low and high tides\nSolved examples \nUse your brain power !\n\nDo you know ?\n\nGiven: Force on Mahendra =  F = 4.002 x \n10 -7 N, Mahendra’s mass = m = 75 kg \n According to Newton’s second law, the \nacceleration produced by the force on \nMahendra = m = 75 kg."
+  },
+  {
+    "chunk_id": "ch1_p16_0017",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Using Newton’s first equation, we can",
+    "content_type": "prose",
+    "page": 16,
+    "chapter": 1,
+    "token_count": 56,
+    "content": "Using Newton’s first equation, we can \t \t\ncalculate Mahendra’s velocity after 1s, \nNewton’s first equation of motion is \nv = u + a t;\nAs Mahendra is sitting on the bench, his \ninitial velocity is zero (u=0)"
+  },
+  {
+    "chunk_id": "ch1_p17_0018",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Earth’ gravitational force",
+    "content_type": "prose",
+    "page": 17,
+    "chapter": 1,
+    "token_count": 196,
+    "content": "7\nEarth’ gravitational force\n\t\nWill the velocity of a stone thrown vertically upwards remain constant or will it change \nwith time? How will it change? Why doesn’t the stone move up all the time? Why does it fall \ndown after reaching a certain height? What does its maximum height depend on ?\n\nThe earth attracts every object near it towards itself because of the gravitational force. \nThe centre of mass of the earth is situated at its centre, so the gravitational force on any object \ndue to the earth is always directed towards the centre of the earth. Because of this force, an \nobject falls vertically downwards on the earth. \nSimilarly, when we throw a stone vertically upwards, this force tries to pull it down and \nreduces its velocity. Due to this constant downward pull, the velocity becomes zero after a \nwhile. The pull continues to be exerted and the stone starts moving vertically downward \ntowards the centre of the earth under its influence."
+  },
+  {
+    "chunk_id": "ch1_p17_0019",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Example 1: Calculate the gravitational force",
+    "content_type": "worked_example",
+    "page": 17,
+    "chapter": 1,
+    "token_count": 132,
+    "content": "Example 1: Calculate the gravitational force \ndue to the earth on Mahendra in the earlier \nexample.  \nGiven:  Mass of the earth = m1 = 6 x 1024 kg\nRadius of the earth =  R = 6.4 x 106 m  \nMahendra’s mass = m2 = 75 kg\nG = 6.67 x 10-11 Nm2/kg2 \n\t\nUsing the force law, the gravitational \nforce on Mahendra due to earth is given by\n\t\nThis force is 1.83 x 109 times larger than \nthe gravitational force between Mahendra \nand Virat."
+  },
+  {
+    "chunk_id": "ch1_p17_0020",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Example 2: Starting from rest, what will be",
+    "content_type": "worked_example",
+    "page": 17,
+    "chapter": 1,
+    "token_count": 35,
+    "content": "Example 2: Starting from rest, what will be \nMahendra’s velocity after one second if he \nis falling down due to the gravitational force \nof the earth?"
+  },
+  {
+    "chunk_id": "ch1_p17_0021",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Given:  u = 0, F = 733 N,",
+    "content_type": "prose",
+    "page": 17,
+    "chapter": 1,
+    "token_count": 234,
+    "content": "Given:  u = 0, F = 733 N, \nMahendra’s mass = m = 75 kg\ntime t = 1 s\nMahendra’s acceleration \nAccording to Newton’s first equation of \nmotion,\nv = u + a t \nMahendra’s velocity after 1 second \nv  = 0  +  9.77 x 1 m/s \nv = 9.77 m/s\nThis is 1.83 x 109 times Mahendra’s velocity \nin example 2, on page 6.\n\na =      \nF\nm\n=          m/s2\n733\n 75\nF = \nG m1m2\n    R2\n         6.67 x 10-11 x 75 x  6 x 1024\n(6.4 x 106 )2\nN\nF  =\n= 733 N\n\t\nCollect information about high and low tides from geography books. Observe the \ntiming of high and low tides at one place when you go for a picnic to be a beach. Take \npictures and hold an exhibition."
+  },
+  {
+    "chunk_id": "ch1_p17_0022",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "According to Newton’s law of gravitation, every",
+    "content_type": "prose",
+    "page": 17,
+    "chapter": 1,
+    "token_count": 179,
+    "content": "According to Newton’s law of gravitation, every \nobject attracts every other object. \n\t\nThus, if the earth attracts an apple towards itself, the apple also attracts the  earth to­\nwards itself with the same force. Why then does the apple fall towards the earth, but the \nearth does not move towards the apple?\n\nThe gravitational force due to the earth also acts on the moon because of which it \nrevolves around the earth. Similar situation exists for the artificial satellites orbiting the \nearth. The moon and the artificial satellites orbit the earth. The earth attracts them towards \nitself but unlike the falling apple, they do not fall on the earth, why? This is because of the \nvelocity of the moon and the satellites along their orbits. If this velocity was not there, they \nwould have fallen on the earth.\n\nSolved Examples \nUse your brain power !"
+  },
+  {
+    "chunk_id": "ch1_p18_0023",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "What would be the value of g on the surface of the earth if its",
+    "content_type": "prose",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 213,
+    "content": "8\n\t\nThis acceleration depends only on the mass  M and radius R of the earth and so the \nacceleration due to gravity at a given point on the earth is the same for all objects. It does not \ndepend on the properties of the object.\n\nWhat would be the value of g on the surface of the earth if its \nmass was twice as large and its radius half of what it is now?\n\nThink about it\nEarth’s gravitational acceleration\n    The earth exerts gravitational force on objects near it. According to Newton’s second law \nof motion, a force acting on a body results in its acceleration. Thus, the gravitational force due \nto the earth on a body results in its acceleration. This is called acceleration due to gravity and \nis denoted by ‘g’.  Acceleration is a vector. As the gravitational force on any object due to the \nearth is directed towards the centre of the earth, the direction of the acceleration due to grav­\nity is also directed towards the centre of the earth i.e. vertically downwards."
+  },
+  {
+    "chunk_id": "ch1_p18_0024",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 11,
+    "content": "1. What would happen if there were no gravity?"
+  },
+  {
+    "chunk_id": "ch1_p18_0025",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 15,
+    "content": "2. What would happen if the value of G was twice as large?"
+  },
+  {
+    "chunk_id": "ch1_p18_0026",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Value of g on the surface of the earth",
+    "content_type": "prose",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 255,
+    "content": "Value of g on the surface of the earth\nG M m\n    r2\nF =                    ............. (3) \n\t\nWe can calculate the value of g by using Newton’s universal law of gravitation for an \nobject of mass m situated at a distance r from the centre of the earth. The law of gravitation \ngives \nF = m g     ................... (4)\nG M \n  r2\ng =                ............ (5) \nM is the mass of the earth. \nG M \n  R2\ng = \n......... (6)\n    From (3) and (4), \nThe unit of g in SI units is m/s2. The mass and radius of the earth \nare 6 x1024 kg and 6.4x106 m, respectively. Using these in (6) \ng = \n(6.4 x 106 )2 \n6.67 x 10-11 x 6 x 1024\n= 9.77 m/s2  ......................... (7)\nIf the object is situated on the surface of the earth, r = R = Radius \nof the earth.  Thus, the value of g on the surface of the earth is."
+  },
+  {
+    "chunk_id": "ch1_p18_0027",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Can you tell?",
+    "content_type": "prose",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 4,
+    "content": "Can you tell?"
+  },
+  {
+    "chunk_id": "ch1_p18_0028",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "G M m",
+    "content_type": "prose",
+    "page": 18,
+    "chapter": 1,
+    "token_count": 367,
+    "content": "G M m\n    r2\nmg = \nVariation in value of g\nA. Change along the surface of the earth : Will the value of g be the same everywhere on \nthe surface of the earth? The answer is no. The reason is that the shape of the earth is not ex­\nactly spherical and so the distance of a point on the surface of the earth from its centre differs \nsomewhat from place to place. Due to its rotation, the earth bulges at the equator and is flatter \nat the poles. Its radius is largest at the equator and smallest at the poles. The value of g is thus \nhighest (9.832 m/s2) at the poles and decreases slowly with decreasing latitude. It is lowest \n(9.78 m/s2) at the equator. \nB. Change with height : As we go above the earth’s surface, the value of r in equation (5) \nincreases and the value of g decreases. However, the decrease is rather small for heights \nwhich are small in comparison to the earth’s radius. For example, remember that the radius \nof the earth is 6400 km. If an aeroplane is flying at a height 10 km above the surface of the \nearth, its distance from the earth’s surface changes from 6400 km to 6410 km and the change \nin the value of g due to it  is negligible. On the other hand, when we consider an artificial \nsatellite orbiting the earth, we have to take into account the change in the value of g due to the \nlarge change in the distance of the satellite from the centre of the earth. Some typical heights \nand the values of g at these heights are given in the following table."
+  },
+  {
+    "chunk_id": "ch1_p19_0029",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Place",
+    "content_type": "prose",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 115,
+    "content": "9\nPlace\nHeight (km)\ng (m/s2)\nSurface of the earth (average)\n0\n9.8\nMount Everest\n8.8 \n9.8\nMaximum height reached by man­\nmade balloon \n36.6\n9.77\nHeight of a typical weather satellite\n400\n8.7\nHeight of communication satellite\n35700\n0.225\n1.7 Table showing change of g with height above the earth’s surface\n1. Will the direction of the gravitational force change as we go \ninside the earth?"
+  },
+  {
+    "chunk_id": "ch1_p19_0030",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 16,
+    "content": "2. What will be the value of g at the centre of the earth?"
+  },
+  {
+    "chunk_id": "ch1_p19_0031",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Mass and Weight",
+    "content_type": "prose",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 159,
+    "content": "Every planet and satellite has different mass and radius. Hence, according to equation \n(6), the values of g on their surfaces are different.  On the moon it is about 1/6th of the value \non the earth. As a result, using the same amount of force, we can jump 6 times higher on \nthe moon as compared to that on the earth.\n\nMass and Weight\nMass : Mass is the amount of matter present in the object. The SI unit of mass is kg. Mass \nis a scalar quantity. Its value is same everywhere. Its value does not change even when we \ngo to another planet. According to Newton’s first law, it is the measure of the inertia of an \nobject. Higher the mass, higher is the inertia."
+  },
+  {
+    "chunk_id": "ch1_p19_0032",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 166,
+    "content": "Weight : The weight of an object is defined as the force with which the earth attracts the \nobject. The force (F) on an object of mass m on the surface of the earth can be written \nusing equation (4)\nC. Change with depth : The value of g also changes if we go inside the earth. The value \nof r in equation (5) decreases and one would think that the value of g should increase as \nper the formula. However, the part of the earth which contributes towards the gravitation­\nal force felt by the object also decreases.  Which means that the value of M to be used in \nequation (5) also decreases. As a combined result of change in r and M, the value of g \ndecreases as we go deep inside the earth."
+  },
+  {
+    "chunk_id": "ch1_p19_0033",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Colloquially we use weight for both mass and weight and measure the weight in",
+    "content_type": "prose",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 186,
+    "content": "\\Weight, W = F = m g   ....   (                   )      \nG M \n  R2\ng = \n\t\nColloquially we use weight for both mass and weight and measure the weight in \nkilograms which is the unit of mass. But in scientific language when we say that Rajeev’s \nweight is 75 kg, we are talking about Rajeev’s mass. What we mean is that Rajeev’s \nweight is equal to the gravitational force on 75 kg mass. As Rajeev’s mass is 75 kg, his \nweight on earth is F = mg = 75 x 9.8 = 735 N. The weight of 1 kg mass is 1 x 9.8 = 9.8 \nN. Our weighing machines tell us the mass.  The two scale balances in shops compare \ntwo weights i.e. two masses."
+  },
+  {
+    "chunk_id": "ch1_p19_0034",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Think about it",
+    "content_type": "prose",
+    "page": 19,
+    "chapter": 1,
+    "token_count": 73,
+    "content": "Think about it\n\t\nWeight being a force, its SI unit is Newton.  Also, the weight, being a force, is a vector \nquantity and its direction is towards the centre of the earth.  As the value of g is not same \neverywhere, the weight of an object changes from place to place, though its mass is \nconstant everywhere."
+  },
+  {
+    "chunk_id": "ch1_p20_0035",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Gravitational waves",
+    "content_type": "prose",
+    "page": 20,
+    "chapter": 1,
+    "token_count": 119,
+    "content": "10\nGravitational waves\n\t\nWaves are created on the surface of water when we drop a stone into it. Similarly \nyou must have seen the waves generated on a string when both its ends are held in hand \nand it is shaken. Light is also a type of wave called the electromagnetic wave. Gamma \nrays, X-rays, ultraviolet rays, infrared rays, microwave and radio waves are all different \ntypes of electromagnetic waves. Astronomical objects emit these waves and we receive \nthem using our instruments. All our knowledge about the universe has been obtained \nthrough these waves."
+  },
+  {
+    "chunk_id": "ch1_p20_0036",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 20,
+    "chapter": 1,
+    "token_count": 157,
+    "content": "Gravitational waves are a very different type of waves. They have been called the \nwaves on the fabric of space-time. Einstein predicted their existence in 1916. These \nwaves are very weak and it is very difficult to detect them. Scientists have constructed \nextremely sensitive instruments to detect the gravitational waves emitted by astronomical \nsources. Among these, LIGO (Laser Interferometric Gravitational Wave Observatory) \nis the prominent one. Exactly after hundred years of their prediction, scientists detected \nthese waves coming from an astronomical source.  Indian scientists have contributed \nsignificantly in this discovery. This discovery has opened a new path to obtain \ninformation about the Universe.\n\n1.\t Will your weight remain constant as you go above \nthe surface of the earth?"
+  },
+  {
+    "chunk_id": "ch1_p20_0037",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Moon given that moon’s mass is    1",
+    "content_type": "worked_example",
+    "page": 20,
+    "chapter": 1,
+    "token_count": 126,
+    "content": "=\n m G MM\n    RM\n2\nx\n750 RE\n2\n(G ME)    \nG MM\n  RM\n2\n= 750 RE\n2 \nRM\n2\n  MM \n  ME\nx\n 1\n81\n= 750  x (3.7)2 x \nExample 1:  If a person weighs 750 N on earth, how much would be his weight on the \nMoon given that moon’s mass is    1\n81\nof that of the earth and its radius is   1\n3.7 of that of \nthe earth ?"
+  },
+  {
+    "chunk_id": "ch1_p20_0038",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Given: Weight on earth = 750 N,",
+    "content_type": "prose",
+    "page": 20,
+    "chapter": 1,
+    "token_count": 235,
+    "content": "Given: Weight on earth = 750 N,\nRatio of mass of the earth (ME) to mass of the moon (MM) = ME  \nMM\n= 81  \nRatio of radius of earth (RE) to radius of moon (RM) = \n = 3.7\nRE \nRM\nSolved Examples\nUse your brain power !\n\nDo you know ?\n\n2.  Suppose you are standing on a tall ladder. If your distance from the centre of the earth \nis 2R, what will be your weight?  \nLet the mass of the person be m kg\nWeight on the earth = m g = 750 =   \n\\ m =                   ..................  (i)\n  (G ME)\n750 RE\n2\nm G ME \n    RE\n2 \nWeight on Moon                            using (i)\n= 126.8 N\n\t\nThe weight on the moon is nearly 1/6th of the weight on the earth. We can write the \nweight on moon as mgm (gm is the acceleration due to gravity on the moon). Thus gm is 1/6th \nof the g on the earth.\n\n="
+  },
+  {
+    "chunk_id": "ch1_p21_0039",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Free fall",
+    "content_type": "prose",
+    "page": 21,
+    "chapter": 1,
+    "token_count": 139,
+    "content": "11\nFree fall\nTry this\n\t\nTake a small stone. Hold it in your hand. Which forces are acting \non the stone? Now release the stone. What do you observe? What are \nthe forces acting on the stone after you release it? \nv = g t\nv2 = 2 g s\ns =      g t2\n1\n2\n\t\nFor calculating the motion of an object thrown upwards, accelera­\ntion is negative, i.e. in a direction opposite to the velocity and is taken to \nbe  – g. The magnitude of g is the same but the velocity of the object \ndecreases because of this -ve acceleration."
+  },
+  {
+    "chunk_id": "ch1_p21_0040",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "The moon and the artificial satellites are moving only under the in­",
+    "content_type": "prose",
+    "page": 21,
+    "chapter": 1,
+    "token_count": 235,
+    "content": "The moon and the artificial satellites are moving only under the in­\nfluence of the gravitational field of the earth. Thus they are in free fall. \n\t\nWe know that the force of gravity due to the earth acts on each and every object. \nWhen we were holding the stone in our hand, the stone was experiencing this force, but it \nwas balanced by a force that we were applying on it in the opposite direction. As a result, \nthe stone remained at rest. Once we release the stone from our hands, the only force that \nacts on it is the gravitational force of the earth and the stone falls down under its influence. \nWhenever an object moves under the influence of the force of gravity alone, it is said to be \nfalling freely. Thus the released stone is in a free fall. In free fall, the initial velocity of the \nobject is zero and goes on increasing due to the acceleration due to gravity of the earth. \nDuring free fall, the frictional force due to air opposes the motion of the object and a buoy­\nant force also acts on the object. Thus, true free fall is possible only in vacuum."
+  },
+  {
+    "chunk_id": "ch1_p21_0041",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 21,
+    "chapter": 1,
+    "token_count": 284,
+    "content": "For a freely falling object, the velocity on reaching the earth and the time taken for it \ncan be calculated by using Newton’s equations of motion. For free fall, the initial velocity \nu = 0 and the acceleration a = g. Thus we can write the equations as\t\n\t\nThe value of g is the same for all objects at a given place on the earth. Thus, any \ntwo objects, irrespective of their masses or any other properties, when dropped from the \nsame height and falling freely will reach the earth at the same time. Galileo is said to \nhave performed an experiment around 1590 in the Italian city of Pisa. He dropped two \nspheres of different masses from the leaning tower of Pisa to demonstrate that both \nspheres reached the ground at the same time. \nWhen we drop a feather and a heavy stone at the same time from a height, they do \nnot reach the earth at the same time. The feather experiences a buoyant force and a \nfrictional force due to air and therefore floats and reaches the ground slowly, later than \nthe heavy stone. The buoyant and frictional forces on the stone are much less than the \nweight of the stone and does not affect the speed of the stone much. Recently, scientists \nperformed this experiment in vacuum and showed that the feather and stone indeed \nreach the earth at the same time."
+  },
+  {
+    "chunk_id": "ch1_p21_0042",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Do you know ?",
+    "content_type": "prose",
+    "page": 21,
+    "chapter": 1,
+    "token_count": 20,
+    "content": "https://www.youtube.com/watch?v=eRNC5kcvINA\t\n                           \nDo you know ?"
+  },
+  {
+    "chunk_id": "ch1_p22_0043",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Now let us consider the downward",
+    "content_type": "prose",
+    "page": 22,
+    "chapter": 1,
+    "token_count": 149,
+    "content": "12\n1\n2\ns = u t  +       a t2              \n\t\nNow let us consider the downward \nmotion of the ball. Suppose the ball takes t \nseconds to come down. Now the initial \nvelocity of the ball is zero, u = 0. Distance \ntravelled by the ball on reaching the ground \n= 4.05 m. As the velocity and acceleration \nare in the same direction, \na = g=10 m/s\nAccording to Newton’s second equation of \nmotion\n1\n2\n4.05 = 0 +       10 t2 \n\t\nThe ball will take 0.9 s to reach the \nground. It will take the same time to go up."
+  },
+  {
+    "chunk_id": "ch1_p22_0044",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Thus, the total time taken  = 2 x 0.9 = 1.8 s",
+    "content_type": "prose",
+    "page": 22,
+    "chapter": 1,
+    "token_count": 310,
+    "content": "Thus, the total time taken  = 2 x 0.9 = 1.8 s\n4.05  \n  5\nt2 =            = 0.81 , \nt = 0.9 s\nExample 2. A tennis ball is thrown up and \nreaches a height of 4.05 m before coming \ndown. What was its initial velocity? How \nmuch total time will it take to come down? \nAssume g = 10 m/s2\nGiven: For the upward motion of the ball, \nthe final velocity of the ball  = v = 0 \nDistance travelled by the ball  = 4.05 m \nacceleration a= - g = -10 m/s2 \nUsing Newton’s third equation of motion \nv2 = u2 + 2 a s \n0 = u2 + 2 (-10) x 4.05 \n \\ u2 = 81 \n  u = 9 m/s  The initial velocity of the ball \nis 9 m/s \nExample 1. An iron ball of mass 3 kg is \nreleased from a height of 125 m and falls \nfreely to the ground. Assuming that the \nvalue of g is 10 m/s2, calculate\n(i) time taken by the ball to reach the \nground\n(ii) velocity of the ball on reaching the \nground \n(iii) the height of the ball at half the time it \ntakes to reach the ground."
+  },
+  {
+    "chunk_id": "ch1_p22_0045",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Given: m = 3 kg, distance travelled by the",
+    "content_type": "prose",
+    "page": 22,
+    "chapter": 1,
+    "token_count": 231,
+    "content": "Given: m = 3 kg, distance travelled by the \nball s = 125 m, initial velocity of the ball = \nu = o and acceleration a = g = 10 m/s2.\n\n(i) Newton’s second equation of motion \ngives \ns = u t  +       a t2\n1\n2\n\\ 125 = 0 t +       x 10 x t2 = 5 t2 \n1\n2\nt2 =         = 25\n 125\n   5\n, t = 5 s\n\t\nThe ball takes 5 seconds to reach the \nground.\n\n(ii) According to Newton’s first equation \nof motion  final velocity = v = u + a t\n          = 0 + 10 x 5 \n          = 50 m/s \nThe velocity of the ball on reaching the \nground is 50 m/s \n5\n2\ns = u t  +       a t2\n1\n2\ns =  0 +       10 x (2.5)2  \n1\n2\n = 31.25 m."
+  },
+  {
+    "chunk_id": "ch1_p22_0046",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Thus the height of the ball at half time",
+    "content_type": "prose",
+    "page": 22,
+    "chapter": 1,
+    "token_count": 111,
+    "content": "Thus the height of the ball at half time \n= 125-31.25  = 93.75 m\n(iii) Half time  = t =      = 2.5 s\nBall’s height at this time = s\nAccording to Newton’s second equation\nSolved Examples\nUse your brain power !\n\nAccording to Newton’s law of gravitation, earth’s \ngravitational force is higher on an object of larger mass.\n\nWhy doesn’t that object fall down with higher velocity \nas compared to an object with lower mass?"
+  },
+  {
+    "chunk_id": "ch1_p23_0047",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Gravitational potential energy",
+    "content_type": "prose",
+    "page": 23,
+    "chapter": 1,
+    "token_count": 402,
+    "content": "13\nGravitational potential energy\n\t\nWe have studied potential energy in last standard. The energy stored in an object because \nof its position or state is called potential energy. This energy is relative and increases as we \ngo to greater heights from the surface of the earth. We had assumed that the potential energy \nof an object of mass m, at a height h from the ground is mgh and on the ground it is zero. \nWhen h is small compared to the radius R of the earth, we can assume g to be constant and \ncan use the above formula (mgh). But for large values of h, the value of g decreases with \nincrease in h. For an object at infinite distance from the earth, the value of g is zero and \nearth’s gravitational force does not act on the object. So it is more appropriate to assume the \nvalue of potential energy to be zero there. Thus, for smaller distances, i.e. heights, the potential \nenergy is less than zero, i.e. it is negative. \nGMm\n R+h\n   -\nu2\n 2g \n   -\nEscape velocity\n\t\nWe have seen than when a ball is thrown upwards, its velocity decreases because of the \ngravitation of the earth. The velocity becomes zero after reaching a certain height and after \nthat the ball starts falling down. Its maximum height depends on its initial velocity. According \nto Newton’s third equation of motion is \nv2 = u2+2as,\nv = the final velocity of the ball  = 0 and a = - g \n \\ 0 = u2 + 2 (-g) s  and maximum height of the ball  = s =\n\t\nThus, higher the initial velocity u, the larger is the height reached by the ball. \nThe reason for this is that the higher the initial velocity, the ball will oppose the gravity of \nthe earth more and larger will be the height to which it can reach."
+  },
+  {
+    "chunk_id": "ch1_p23_0048",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 23,
+    "chapter": 1,
+    "token_count": 235,
+    "content": "We have seen above that the value of g keeps decreasing as we go higher above the surface \nof the earth. Thus, the force pulling the ball downward, decreases as the ball goes up.  If we \nkeep increasing the initial velocity of the ball, it will reach larger and larger heights and \nabove a particular value of initial velocity of the ball, the ball is able to overcome the \ndownward pull by the earth and can escape the earth forever and will not fall back on the \nearth. This velocity is called escape velocity. We can determine its value by using the law of \nconservation of energy as follows.\n\nAn object going vertically upwards from the surface of the earth, having an initial ve-\nlocity equal to the escape velocity, escapes the gravitational force of the earth. The force of \ngravity, being inversely proportional to the square of the distance, becomes zero only at in-\nfinite distance from the earth. This means that for the object to be free from the gravity of the \nearth, it has to reach infinite distance from the earth. i.e. the object will come to rest at in-\nfinite distance and will stay there."
+  },
+  {
+    "chunk_id": "ch1_p23_0049",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "For an object of mass m",
+    "content_type": "prose",
+    "page": 23,
+    "chapter": 1,
+    "token_count": 169,
+    "content": "on the surface of earth\nat infinite distance from the earth\nFor an object of mass m\n1\n2\nA. Kinetic energy =        mv2\nesc\nB. Potential energy = -       GMm\n   R\nC. Total energy = E1 = Kinetic energy \n                                     + Potential energy \n=                  -         \nGMm\n   R\n1\n2  mv2\nesc\nA. Kinetic energy = 0\nB. Potential energy       \n= 0\nC. Total energy =  E2 = Kinetic energy + \t\t\n\t\n                                potential energy \n\t\n\t \t\n\t\n = 0\nWhen an object is at a height h from the surface of the earth, its potential energy is \n \t\nhere, M and R are earth’s mass and radius respectively.\n\nGMm\n  \n8\n= -"
+  },
+  {
+    "chunk_id": "ch1_p24_0050",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Weightlessness in space",
+    "content_type": "prose",
+    "page": 24,
+    "chapter": 1,
+    "token_count": 327,
+    "content": "14\nWeightlessness in space\nSpace travellers as well as objects in the spacecraft appear to be floating. Why does this \nhappen? Though the spacecraft is at a height from the surface of the earth, the value of g \nthere is not zero. In the space station the value of g is only 11% less than its value on the \nsurface of the earth. Thus, the height of a spacecraft is not the reason for their weightlessness. \nTheir weightlessness is caused by their being in the state of free fall.  Though the spacecraft \nis not falling on the earth because of its velocity along the orbit, the only force acting on it is \nthe gravitational force of the earth and therefore it is in a free fall. As the velocity of free fall \ndoes not depend on the properties of an object, the velocity of free fall is the same for the \nspacecraft, the travelers and the objects in the craft. Thus, if a traveller releases an object \nfrom her hand, it will remain stationary with respect to her and will appear to be weightless. \nExercise\n1. Study the entries in the following \ntable and rewrite them putting the \nconnected items in a single row. \nI\nII\nIII\nMass\nm/s2\nZero at the\ncentre\nWeight\nkg\nMeasure of inertia\nAccelera­\ntion due to \ngravity\nNm2/kg2\nSame in the entire \nuniverse\nG r a v i t a ­\ntional con­\nstant\nN\nDepends on height\n2. Answer the following questions."
+  },
+  {
+    "chunk_id": "ch1_p24_0051",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "How did they help Newton to arrive at the",
+    "content_type": "prose",
+    "page": 24,
+    "chapter": 1,
+    "token_count": 238,
+    "content": "a.\t What is the difference between mass  and \nweight of an object. Will the mass and \nweight of an object on the earth be same \nas their values on Mars? Why?\n\nb \t What are (i) free fall, (ii) acceleration \ndue to gravity (iii) escape velocity (iv) \ncentripetal force ? \nc. \tWrite the three laws given by Kepler. \nHow did they help Newton to arrive at the \ninverse square law of gravity?\n\nGMm\n   R\n1\n2  mv2\nesc\n                             -              =  0\n2 GM\n   R\n v2\nesc =\n2 GM\n   R\n vesc =\n\t\n\t The spacecrafts which are sent to \nthe moon or other planets have to have \ntheir initial velocity larger than the escape \nvelocity so that they can overcome earth’s \ngravitational attraction and can travel to \nthese objects. \nExample 1. Calculate the escape velocity on \nthe surface of the moon given the mass and \nradius of the moon to be 7.34 x 1022 kg and \n1.74 x 106 m respectively."
+  },
+  {
+    "chunk_id": "ch1_p24_0052",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Given: G = 6.67 x 10-11 N m2/kg2,  mass of the",
+    "content_type": "prose",
+    "page": 24,
+    "chapter": 1,
+    "token_count": 174,
+    "content": "Given: G = 6.67 x 10-11 N m2/kg2,  mass of the \nmoon = M = 7.34 x 1022 kg and radius of the \nmoon = R= 1.74 x 106 m.\n\n2 GM\n   R\n vesc =\nEscape velocity on the moon 2.37 km/s.\n\n= 2.37 km/s\nFrom the principle of  conservation of energy\n E1 = E2\n2 g R\n(2 x 9.8 x 6.4 x 106)     = 11.2 km/s\nEscape velocity =  \n    2 x 6.67 x 10-11 x 7.34 x 1022\n                1.74 x 106\nDo you know ?\n\nSolved Examples\n=\n="
+  },
+  {
+    "chunk_id": "ch1_p25_0053",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 25,
+    "chapter": 1,
+    "token_count": 205,
+    "content": "15\n²²²\nd. \tA stone thrown vertically upwards with \ninitial velocity u reaches a height ‘h’ \nbefore coming down. Show that the \ntime taken to go up is same as the time \ntaken to come down.\n\ne.  If the value of g suddenly becomes twice \nits value, it will become two times more \ndifficult to pull a heavy object along the \nfloor. Why? \n3.\t Explain why the value of g is zero at \nthe centre of the earth.\n\n4.\t Let the period of revolution of a planet \nat a distance R from a star be T. Prove \nthat if it was at a distance of 2R from \nthe star, its period of revolution will be \n8  T. \n5.\t Solve the following examples.\n\na. \tAn object takes 5 s to reach the \nground from a height of 5 m on a \nplanet. What is the value of g on the \nplanet?"
+  },
+  {
+    "chunk_id": "ch1_p25_0054",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Ans: 0.4 m/s2",
+    "content_type": "prose",
+    "page": 25,
+    "chapter": 1,
+    "token_count": 487,
+    "content": "Ans: 0.4 m/s2\nb. The radius of planet A is half the \nradius of planet B. If the mass of A is \nMA, what must be the mass of B so \nthat the value of g on B is half that of \nits value on A?  \n\t\n\t\n\t\n\t\n     Ans:  2 MA\nc. The mass and weight of an object on \nearth are 5 kg and 49 N respectively. \nWhat will be their values on the \nmoon? Assume that the acceleration \ndue to gravity on the moon is 1/6th \nof that on the earth.                \t\n\t\n \t\n            Ans: 5 kg and 8.17 N\nd. An object thrown vertically upwards \nreaches a height of 500 m. What was \nits initial velocity? How long will the \nobject take to come back to the \nearth? Assume g = 10 m/s2                                    \n              \t           Ans: 100 m/s and 20 s\ne. A ball falls off a table and reaches \nthe ground in 1 s. Assuming g = 10 \nm/s2, calculate its speed on reaching \nthe ground and the height of the \ntable.                        \t\n\t\n\t\n\t\n            Ans. 10 m/s and 5 m\nf.  The masses of the earth and moon \nare 6 x 1024 kg and 7.4x1022 kg, \nrespectively. The distance between \nthem is 3.84 x 105 km. Calculate the \ngravitational force of attraction \nbetween the two?  \n\t\n\t\nUse G = 6.7 x 10-11 N m2 kg-2 \t\n\t\n\t\n\t\nAns: 2 x 1020 N\ng. The mass of the earth is 6 x 1024 kg. \nThe distance between the earth and \nthe Sun is 1.5x 1011 m. If the \ngravitational force between the two \nis 3.5 x 1022 N, what is the mass of \nthe Sun?  \n\t\n \t\nUse G = 6.7 x 10-11 N m2 kg-2                                   \t\n\t\n\t\n  \t\n      Ans: 1.96 x 1030 kg \n Project: \nTake weights of five of your friends. \nFind out what their weights will be on the \nmoon and the Mars."
+  },
+  {
+    "chunk_id": "ch2_p26_0055",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 26,
+    "chapter": 2,
+    "token_count": 22,
+    "content": "16\n1. What are the types of matter?\t \t\n2. What are the types of elements?"
+  },
+  {
+    "chunk_id": "ch2_p26_0056",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 26,
+    "chapter": 2,
+    "token_count": 11,
+    "content": "3. What are the smallest particles of matter called?"
+  },
+  {
+    "chunk_id": "ch2_p26_0057",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Ø Elements and their classification   \t Ø Dobereiner’s Triads",
+    "content_type": "prose",
+    "page": 26,
+    "chapter": 2,
+    "token_count": 231,
+    "content": "4. What is the difference between the molecules of elements and \ncompounds?\n\n2.Periodic Classification of Elements\nØ Elements and their classification   \t Ø Dobereiner’s Triads\nØ Newlands Law of Octaves        \t\nØ Mendeleev’s Periodic Table\nØ Modern Periodic Table\nClassification of elements\n\t\nWe have learnt in the previous standards that all the atoms of an element are of only \none type. Today 118 elements are known to the scientific world. However, around year \n1800 only about 30 elements were known. More number of elements were discovered in \nthe course of time. More and more information about the properties of these elements was \ngathered. To ease the study of such a large number of elements, scientists started studying \nthe pattern if any, in the vast information about them. You know that in the initial \nclassification elements were classified into the groups of metals and nonmetals. Later  on \nanother class of elements called metalloids was noticed. As the knowledge about elements \nand their properties went on increasing different scientists started trying out different \nmethods of classification."
+  },
+  {
+    "chunk_id": "ch2_p26_0058",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Dobereiner’s Triads",
+    "content_type": "prose",
+    "page": 26,
+    "chapter": 2,
+    "token_count": 224,
+    "content": "Dobereiner’s Triads\n\t\nIn the year 1817 a German scientist Dobereiner suggested that properties of elements \nare related to their atomic masses. He made groups of three elements each, having similar \nchemical properties and called them triads. He arranged the three elements in a triad in an \nincreasing order of atomic mass and showed that the atomic mass of the middle element \nwas approximately equal to the mean of the atomic masses of the other two elements. \nHowever, all the known elements could not be classified into the Dobereiner’s triads.\t\n2.1 Dobereiner’s Triads\nIdentify Dobereiner’s triads from the following groups of \nelements having similar chemical properties.\n\nCan you recall?\n\nCan you tell?\n\n1. Mg (24.3), Ca (40.1), Sr (87.6)\t        2. S (32.1), Se (79.0), Te (127.6)         \n3. Be (9.0), Mg (24.3), Ca (40.1)\nSr. \nNo."
+  },
+  {
+    "chunk_id": "ch2_p26_0059",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Triad",
+    "content_type": "prose",
+    "page": 26,
+    "chapter": 2,
+    "token_count": 217,
+    "content": "Triad\nElement -1 \nActual atomic \nmass(a)\nElement - 2\nElement - 3 \nActual atomic\nmass (c) \n                \nActual \natomic mass\n1\nLi, Na, \nK\n Lithium (Li)\n6.9\nSodium\n(Na)\n23.0\nPotassium (K)\n39.1\n2\nCa, Sr, \nBa\nCalcium (Ca)\n40.1\nStrontium\n(Sr)\n87.6\nBarium (Ba)\n137.3\n3\nCl, Br, I\nChlorine (Cl)\n35.5\nBromine\n(Br)\n79.9\nIodine (I)\n126.9\n= 23.0 \n6.9 + 39.1\n      2\n40.1+ 137.3\n        2\n= 88.7\n35.5 + 126.9\n         2\n= 81.2\n a+c\n   2\nMean ="
+  },
+  {
+    "chunk_id": "ch2_p27_0060",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "The English scientist John Newlands",
+    "content_type": "prose",
+    "page": 27,
+    "chapter": 2,
+    "token_count": 173,
+    "content": "17\nThe English scientist John Newlands \ncorrelated the atomic masses of elements \nto their properties  in a different way. In the \nyear 1866 Newlands arranged the elements \nknown at that  time in an increasing order \nof their atomic masses. It started with the \nlightest element hydrogen and ended up \nwith thorium. He found that every eighth \nelement had properties similar to those of \nthe first. For example, sodium is the eighth \nelement from lithium and both have similar \nproperties. \nAlso, \nmagnesium \nshows \nsimilarity to beryllium and chlorine shows \nsimilarity \nwith \nfluorine. \nNewlands \ncompared this similarity with the octaves \nin music. He called the similarity observed \nin the eighth and the first element as the \nLaw of octaves."
+  },
+  {
+    "chunk_id": "ch2_p27_0061",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Musical",
+    "content_type": "prose",
+    "page": 27,
+    "chapter": 2,
+    "token_count": 446,
+    "content": "Musical \nNote\nDo\n(Sa)\nRe\n(Re)\nMi\n(Ga)\nFa\n(Ma)\nSo\n(Pa)\nLa\n(Dha) \nTi\n(Ni)\nElements\nH\nF\nCl\nCo &Ni\nBr\nLi\nNa\nK\nCu\nRb\nBe\nMg\nCa\nZn\nSr\nB\nAl\nCr\nY\nCe & La\nC\nSi\nTi\nIn\nZr\nN\nP\nMn\nAs\nO\nS\nFe\nSe\n2.2 Newlands’ Octaves\nMany limitation were found in Newlands’ octaves. This law was found to be applicable \nonly up to calcium. Newlands fitted all the known elements in a table of 7 X 8 that is 56 \nboxes. Newlands placed two elements each in some boxes to accommodate all the known \nelements in the table. For example, Co and Ni, Ce and La. Moreover, he placed some \nelements with different properties under the same note in the octave. For example, \nNewlands placed the metals Co and Ni under the note ‘Do’ along with halogens, while Fe, \nhaving similarity with Co and Ni, away from them along with the nonmetals O and S \nunder the note ‘Ti’. Also, Newlands’ octaves did not have provision to accommodate the \nnewly discovered elements. The properties of the new elements discovered later on did not \nfit in the Newlands’ law of octaves. \nIn the Indian music system there \nare seven main notes, namely, Sa, Re, \nGa, Ma, Pa, Dha, Ni, and their collection \nis called ‘Saptak’. The frequency of the \nnotes goes on increasing from ‘Sa’ to \n‘Ni’. Then comes, the ‘Sa’ of the upper \n‘Saptak’ at the double the frequency of \nthe original ‘Sa’. It means that notes \nrepeat after completion of one ‘Saptak’. \nThe seven notes in the western music \nare Do, Re, Mi, Fa, So, La, Ti."
+  },
+  {
+    "chunk_id": "ch2_p27_0062",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "The note ‘Do’ having double the",
+    "content_type": "prose",
+    "page": 27,
+    "chapter": 2,
+    "token_count": 176,
+    "content": "The note ‘Do’ having double the \noriginal frequency comes again at the \neighth place. This is the octave of \nwestern notes. Music is created by the \nvariety in the use of these notes.\n\nNewlands’ Law of Octaves\nMendeleev’s Periodic table\nThe Russian scientist Dmitri Mendeleev developed the periodic table of elements \nduring the period 1869 to 1872 A.D. Mendeleev’s periodic table is the most important step \nin the classification of elements. Mendeleev considered the fundamental property of \nelements, namely, the atomic mass, as standard and arranged 63 elements  known at that \ntime in an increasing order of their atomic masses. Then he transformed this into the \nperiodic table of elements in accordance with the physical and chemical properties of \nthese elements. \nDo you know ?"
+  },
+  {
+    "chunk_id": "ch2_p28_0063",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Group I",
+    "content_type": "prose",
+    "page": 28,
+    "chapter": 2,
+    "token_count": 520,
+    "content": "18\n2.3 Mendeleev’s Periodic Table\nSe­\nries\nGroup I\n-\nR2O\nGroup II\n-\nRO \nGroup  III\n-\nR2O3\nGroup  IV\nRH4\nRO2\nGroup  V\nRH3\nR2O5\nGroup  \nVI\nRH2\nRO3\nGroup VII\nRH\nR2O7\nGroup VIII\n-\nRO4\n1\nH=1\n2\nLi=7\nBe=9.4\nB=11\nC=12\nN=14\nO=16\nF=19\n3\nNa=23\nMg=24\nAl=27.3\nSi=28\nP=31\nS=32\nCl= 35.5\n4\nK=39\nCa=40\n- = 44\nTi= 48\nV=51 \nCr= 52\nMn=55\nFe=56, Co=59\nNi=59, Cu=63\n5\n(Cu=63)\nZn=65\n-=68\n-=72\nAs=75\nSe=78\nBr=80\n6\nRb=85\nSr=87\n?Yt=88\nZr=90\nNb=94\nMo=96\n-=100\nRu=104,Rh=104\nPd=106,Ag=108\n7\n(Ag=108)\nCd=112\nIn=113\nSn=118\nSb=122\nTe=125\nJ=127\n8\nCs=133\nBa=137\n?Di=138\n?Ce=140\n-\n-\n-\n----\n9\n(-)\n-\n-\n-\n-\n-\n-\n10\n-\n-\n?Er=178\n?La=180\nTa=182\nW=184\n-\nOs=195, Ir=197\nPt=198, Au=199\n11\n(Au=199)\nHg=200\nTi=204\nPb=207\nBi= 208\n-\n-\n12\n-\n-\n-\nTh=231\n-\nU=240\n-\n---\nIntroduction to scientist\n\t\nDmitri Mendeleev (1834-1907) was a professor in the St. \nPetersburg University. He made separate card for every known \nelement showing its atomic mass. He arranged the cards in \naccordance with the atomic masses and properties of the \nelements which resulted in the invention of the periodic table \nof elements."
+  },
+  {
+    "chunk_id": "ch2_p28_0064",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Dmitri Mendeleev",
+    "content_type": "prose",
+    "page": 28,
+    "chapter": 2,
+    "token_count": 190,
+    "content": "Dmitri Mendeleev\n\t\nMendeleev organized the periodic table on the basis of the chemical and physical \nproperties of the elements. These were the molecular formulae of hydrides and oxides of \nthe elements, melting points, boiling points and densities of the elements and their hydrides \nand oxides. Mendeleev found that the elements with similar physical and chemical \nproperties repeat after a definite interval. On the basis of this finding Mendeleev stated \nthe following periodic law.\n\nProperties of elements are periodic function of their atomic masses.  \t\nThe vertical columns in the Mendeleev’s periodic table are called groups while the \nhorizontal rows are called periods.\n\n(The general molecular formulae of compounds shown as R2O, R2O3, etc. in the upper \npart of Mendeleev’s periodic table, are written as R2O, R2O3,etc. in the present system.)"
+  },
+  {
+    "chunk_id": "ch2_p29_0065",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "In some of these places the atomic masses are seen to be",
+    "content_type": "prose",
+    "page": 29,
+    "chapter": 2,
+    "token_count": 213,
+    "content": "19\n1. \tThere are some vacant places in the Mendeleev’s periodic table. \nIn some of these places the atomic masses are seen to be \npredicted. Enlist three of these predicted atomic masses along \nwith their group and period.\n\n2. Due to uncertainty in the names of some of the elements, a \nquestion mark is indicated before the symbol in the Mendeleev’s \nperiodic table. What are such symbols?\n\nMerits of Mendeleev’s periodic table \nScience is progressive. There is a freedom in science to revise the old inference by \nusing more advanced means and methods of doing experiments. These characteristics of \nscience are clearly seen in the Mendeleev’s periodic table.\n\nWhile applying the law that the properties of elements are a periodic function of their \natomic masses, to all the known elements, Mendeleev arranged the elements with a thought \nthat the information available till then was not final but it could change. As a result of this, \nMendeleev’s periodic table demonstrates the following merits."
+  },
+  {
+    "chunk_id": "ch2_p29_0066",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 29,
+    "chapter": 2,
+    "token_count": 238,
+    "content": "1. \t Atomic masses of some elements were revised so as to give them proper place in the \nperiodic table in accordance with their properties. For example, the previously determined \natomic mass of beryllium, 14.09, was changed to the correct value 9.4, and beryllium was \nplaced before boron.\n\n2. \t Mendeleev kept vacant places in the periodic table for elements not discovered till \nthen. Three of these unknown elements were given the names eka-boron, eka-aluminum \nand \teka-silicon from the known neighbours and their atomic masses were indicated as \n44, \t68 and 72, respectively. Not only this but their properties were also predicted. Later \non these elements were discovered and named as scandium (Sc), gallium (Ga) and \ngermanium (Ge) respectively. The properties of these elements matched well with those \npredicted by \tMendeleev. See table 2.4. Due to this success all were convinced about the \nimportance of Mendeleev’s periodic table and this method of classification of elements \nwas accepted immediately."
+  },
+  {
+    "chunk_id": "ch2_p29_0067",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Property",
+    "content_type": "prose",
+    "page": 29,
+    "chapter": 2,
+    "token_count": 209,
+    "content": "Property\neka- aluminum(E) (Mendeleev’s prediction)\nGallium (Ga)(actual)\n1. Atomic mass\n68\n69.7\n2. Density (g/cm3) \n5.9\n5.94 \n3. Melting point(0C)\nLow\n30.2 \n4. Formula of chloride\nECl3\nGaCl3\n5. Formula of oxide\nE2O3\nGa2O3\n6. Nature of oxide\nAmphoteric oxide\nAmphoteric oxide\n2.4  Actual and predicted properties of gallium.\n\n3. \t There was no place reserved for noble \ngases in Mendeleev’s original periodic \ntable. However, when noble gases such \nas helium, neon and argon were \ndiscovered \ntowards \nthe \nend \nof \nnineteenth century, Mendeleev created \nthe ‘ zero’ group without disturbing the \noriginal periodic table in which the \nnoble gases were fitted very well."
+  },
+  {
+    "chunk_id": "ch2_p29_0068",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Chlorine has two isotopes,viz, C1-35 and C1-",
+    "content_type": "prose",
+    "page": 29,
+    "chapter": 2,
+    "token_count": 72,
+    "content": "Chlorine has two isotopes,viz, C1-35 and C1-\n37. Their atomic masses are 35 and 37  respectively. \nTheir chemical properties are same. Where should \nthese be placed in Mendeleev’s periodic table? In \ndifferent places or in the same place?\n\nThink about it\nUse your brain power !"
+  },
+  {
+    "chunk_id": "ch2_p30_0069",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Demerits of Mendeleev’s periodic table",
+    "content_type": "prose",
+    "page": 30,
+    "chapter": 2,
+    "token_count": 440,
+    "content": "20\nDemerits of Mendeleev’s periodic table\n1.\t The whole number atomic mass of the elements cobalt (Co) and nickel (Ni) is the same. \nTherefore there was an ambiguity regarding their sequence in Mendeleev’s periodic \ntable. \n2.\t Isotopes were discovered long time after Mendeleev put forth the periodic table. As \nisotopes have the same chemical properties but different atomic masses, a challenge \nwas posed in placing them in Mendeleev’s periodic table. \t\n3. \tWhen elements are arranged in an increasing order of atomic masses, the rise in atomic \nmass does not appear to be uniform. It was not possible, therefore, to predict how many \nelements could be discovered between two heavy elements. \n Element \n(Molecular \nformula)\nCompounds \nwith metals\nCompounds \nwith nonmetals\nH2\nCl2\nNaH\nNaCl\nCH4\nCCl4\n4. \tPosition of hydrogen : Hydrogen shows \nsimilarity with halogens (group VII). For \nexample, the molecular formula of \nhydrogen is H2 while the molecular \nformulae of fluorine and chlorine are F2 \nand Cl2, respectively. In the same way, \nthere is a similarity in the chemical \nproperties of hydrogen and alkali metals \n(group I). There is a similarity in the \nmolecular formulae of the compounds of \nhydrogen alkali metals (Na, K, etc.) \nformed with chlorine and oxygen. On \nconsidering the above properties it can not \nbe decided whether the correct position of \nhydrogen is in the group of alkali metals \n Compounds of  H  Compounds of  Na\nHCl\nH2O\nH2S\nNaCl\nNa2O\nNa2S\n2.5  Similarity in hydrogen and alkali metals\n1. Write the molecular formulae of oxides of the following elements by referring to the \nMendeleev’s periodic table. \t\nNa, Si, Ca, C, Rb, P, Ba, Cl, Sn."
+  },
+  {
+    "chunk_id": "ch2_p30_0070",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Modern Periodic Law",
+    "content_type": "prose",
+    "page": 30,
+    "chapter": 2,
+    "token_count": 237,
+    "content": "2. \t Write the molecular formulae of the compounds of the following elements with hydrogen \nby referring to the Mendeleev’s periodic table.     C, S, Br, As, F, O, N, Cl\nModern Periodic Law\nThe scientific world did not know anything about the interior of the atom when \nMendeleev put forth the periodic table. After the discovery of electron, scientists started \nexploring the relation between the electron number of an atom and the atomic number. The \natomic number in Mendeleev’s periodic table only indicated the serial number of the element.\n\nIn 1913 A.D. the English scientist Henry Moseley demonstrated, with the help of the \nexperiments done using X-ray tube, that the atomic number (Z) of an element corresponds \nto the positive charge on the nucleus or the number of the protons in the nucleus of the atom \nof that element. This revealed that ‘atomic number’ is a more fundamental property of an \nelement than its atomic mass. Accordingly the statement of the modern periodic law was \nstated as follows: \nProperties of elements are a periodic function of their atomic numbers."
+  },
+  {
+    "chunk_id": "ch2_p30_0071",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power !",
+    "content_type": "prose",
+    "page": 30,
+    "chapter": 2,
+    "token_count": 31,
+    "content": "2.6 : Similarity in hydrogen and halogens\nUse your brain power !\n\n(group I) or in the group of halogens (group VII)."
+  },
+  {
+    "chunk_id": "ch2_p31_0072",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Modern periodic table : long form of the periodic table",
+    "content_type": "prose",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 240,
+    "content": "21\nModern periodic table : long form of the periodic table\nThe classification of elements resulting from an arrangement of the elements in an \nincreasing order of their atomic numbers is the modern periodic table. The properties of \nelements can be predicted more accurately with the help of the modern periodic table \nformed on the basis of atomic numbers. The modern periodic table is also called the long \nform of the periodic table.\n\nIn the modern periodic table the elements are arranged in accordance with their atomic \nnumber. (see table 2.7) As a result, most of the drawbacks of Mendeleev’s periodic table \nappear to be removed. However, the ambiguity about the position of hydrogen is not \nremoved even in the modern periodic table.\n\nWe have seen in the previous \nstandard that the electronic configuration \nof an atom, the way in which the electron \nare distributed in the shells around the \nnucleus, is determined by the total \nnumber of electrons in it; and the total \nnumber of electrons in an atom is same \nas the atomic number. The relation \nbetween the atomic number of an element \nand its electronic configuration is clearly \nseen in the modern periodic table."
+  },
+  {
+    "chunk_id": "ch2_p31_0073",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Structure of the  Modern Periodic Table",
+    "content_type": "prose",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 192,
+    "content": "Structure of the  Modern Periodic Table\nThe modern periodic table contains \nseven horizontal rows called the periods \n1 to 7. Similarly, the eighteen vertical \ncolumns in this table are the groups 1 to \n18. The arrangement of the periods and \ngroups results into formation of boxes. \nAtomic numbers are serially indicated in \nthe upper part of these boxes. Each box \ncorresponds to the place for one element. \nApart from these seven rows, two rows are shown separately at the bottom of the \nperiodic table. These are called lanthanide series and actinide series, respectively. There \nare 118 boxes in the periodic table including the two series. It means that there are 118 \nplaces for elements in the modern periodic table. Very recently formation of a few elements \nwas established experimentally and thereby the modern periodic table is now  completely \nfilled. All the 118 elements are now discovered."
+  },
+  {
+    "chunk_id": "ch2_p31_0074",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Position of the elements in the periodic",
+    "content_type": "prose",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 227,
+    "content": "The entire periodic table is divided into four blocks,viz, s-block, p-block, d-block and \nf-block. The s-block contains the groups 1 and 2. The groups 13 to 18 constitute the p-block. \nThe groups 3 to 12 constitute the d-block, while the lanthanide and actinide series at the \nbottom form the f-block. The d-block elements are called transition elements. A zig-zag \nline can be drawn in the p-block of the periodic table. The three traditional types of \nelements can be clearly shown in the modern periodic table with the help of this zig-zag \nline. The metalloid elements lie along the border of this zig-zag line. All the metals lie on \nthe left side of the zig-zag line while all the nonmetals lie on the right side.    \nPosition of the elements in the periodic \nelements......\n\n1. \t How is the problem regarding the \nposition of cobalt (59Co) and nickel \n(59Ni) in Mendeleev’s periodic table \nresolved in modern periodic table?"
+  },
+  {
+    "chunk_id": "ch2_p31_0075",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 71,
+    "content": "2. \t How did the position of 17Cl and  17C1 \nget fixed in the modern periodic ta­\nble? \n3. \t Can there be an element with atomic \nmass 53 or 54 in between the two \nelements, \nchromium \n24Cr \nand \nmanganese  \n25Mn  ?"
+  },
+  {
+    "chunk_id": "ch2_p31_0076",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power !",
+    "content_type": "question_or_exercise",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 43,
+    "content": "4. \t What do you think? Should hydrogen \nbe placed in the group 17 of halogens \nor group 1 of alkali metals in the \nmodern periodic table? \nUse your brain power !"
+  },
+  {
+    "chunk_id": "ch2_p31_0077",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 31,
+    "chapter": 2,
+    "token_count": 7,
+    "content": "37\n35\n52\n55"
+  },
+  {
+    "chunk_id": "ch2_p32_0078",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Modern",
+    "content_type": "prose",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 110,
+    "content": "22\nModern \nperiodic \nTable \nand \nelectronic \nConfiguration of Elements\nWithin a period the neighbouring elements \ndiffer slightly in their properties while distant \nelements differ widely in their properties. \nElements in the same group show similarity \nand gradation in their properties. These \ncharacteristics of the groups and periods in the \nmodern periodic table are because of the \nelectronic configuration of the elements. It is \nthe electronic configuration of an element \nwhich decides the group and the period in which \nit is to be placed."
+  },
+  {
+    "chunk_id": "ch2_p32_0079",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Groups and electronic configuration",
+    "content_type": "prose",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 262,
+    "content": "Groups and electronic configuration\nYou will find that the number of valence electrons in all these elements from the \ngroup 1, that is, the family of alkali metals, is the same. Similarly, if you look at the \nelements from any other group, you will find the number of their valence electrons to be \nthe same. For example, the elements beryllium (Be), magnesium (Mg) and calcium (Ca) \nbelong to the group 2, that is, the family of alkaline earth metals. There are two electrons \nin their outermost shell. Similarly, there are seven electrons in the outermost shell of the \nelements such as fluorine (F) and chlorine (Cl) from the group 17, that is, the family of \nhalogens. While going from top to bottom within any group, one electronic shell gets \nadded at a time. From this we can say that the electronic configuration of the outermost \nshell is characteristic of a particular group. However, as we go down a group, the number \nof  shells goes on increasing. \n1. Go through the modern periodic table (table no. 2.7) and write \nthe names one below the other of the elements of group 1."
+  },
+  {
+    "chunk_id": "ch2_p32_0080",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 17,
+    "content": "2. Write the electronic configuration of the first  four elements in \nthis group."
+  },
+  {
+    "chunk_id": "ch2_p32_0081",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 11,
+    "content": "3. Which similarity do you find in their configuration?"
+  },
+  {
+    "chunk_id": "ch2_p32_0082",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Characteristics",
+    "content_type": "question_or_exercise",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 105,
+    "content": "4. How many valence electrons are there in each of these elements? \nCharacteristics \nof \nGroups \nand \nPeriods\n\t\nThe characteristics of the groups \nand periods in the periodic table are \nunderstood by comparison of the \nproperties of the elements. Various \nproperties of all the elements in a \ngroup show similarity and gradation. \nHowever, the properties of elements \nchange slowly while going from one \nend to the other (for example, from \nleft to right) in a particular period."
+  },
+  {
+    "chunk_id": "ch2_p32_0083",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "In the modern periodic table.......",
+    "content_type": "prose",
+    "page": 32,
+    "chapter": 2,
+    "token_count": 152,
+    "content": "In the modern periodic table.......\n\n1. \tElements are arranged in an increasing order \nof their atomic numbers.\n\n2. Vertical columns are called groups. There are \n18 groups. The chemical properties of the \nelements in the same group show similarity \nand gradation.\n\n3. \tHorizontal rows are called periods. There are \nin all 7 periods. The properties of elements \nchange slowly from one end to the other in a \nperiod.\n\nCan you tell?\n\nUranium has atomic \nnumber 92. All the elements \nbeyond uranium (with atomic \nnumbers 93 to 118) are \nmanmade. All these elements \nare radioactive and unstable, \nand have a very short life. \nDo you know ?"
+  },
+  {
+    "chunk_id": "ch2_p33_0084",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Write down electronic configuration of all of them.",
+    "content_type": "prose",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 50,
+    "content": "23\n1. On going through the modern periodic table it is seen that the \nelements Li, Be, B, C, N, O, F and Ne belong to the period-2. \nWrite down electronic configuration of all of them."
+  },
+  {
+    "chunk_id": "ch2_p33_0085",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 15,
+    "content": "2. Is the number of valence electrons same for all these elements?"
+  },
+  {
+    "chunk_id": "ch2_p33_0086",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 12,
+    "content": "3. Is the number of shells the same in these ?"
+  },
+  {
+    "chunk_id": "ch2_p33_0087",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "You will find that",
+    "content_type": "prose",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 87,
+    "content": "You will find that \nthe number of valence \nelectrons is different in \nthese \nelements. \nHowever, the number \nof shells is the same. \nYou will also find that, \nwhile going from left to \nright, within the period, \nthe \natomic \nnumber \nincreases by one at a \ntime and the number of \nvalence electrons also \nincreases by one at a \ntime."
+  },
+  {
+    "chunk_id": "ch2_p33_0088",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Argon atom",
+    "content_type": "prose",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 231,
+    "content": "2.8  New period new shell\nArgon atom\nBe\n2,2\nMg\n2,8,2\nCa\n2,8,8,2\nSr\nBa\nRa\nH\n1\nLi\n2,1\nNa\n2,8,1\nK\n2,8,8,1\nB\n2,3\nC\n2,4\nN\n2,5\nO\n2,6\nF\n2,7\nAl\n2,8,3\nSi\n2,8,4\nP\n2,8,5\nS\n2,8,6\nCl\n2,8,7\nHe\n2\nNe\n2,8\nAr\n2,8,8\n1\n2\n3\n4\n5\n6\n7\n     1            2              13          14          15         16         17         18\nPotassium atom\nCan you tell?\n\n2.7   Table : Modern Periodic Table\nPeriods and electronic configuration\nd- block\nAtomic No."
+  },
+  {
+    "chunk_id": "ch2_p33_0089",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Symbol",
+    "content_type": "prose",
+    "page": 33,
+    "chapter": 2,
+    "token_count": 20,
+    "content": "Symbol \nName\nAtomic mass\ns- block\np- block\nf- block #\n*"
+  },
+  {
+    "chunk_id": "ch2_p34_0090",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 162,
+    "content": "24\nWe can say that the elements with the same number of shells occupied by electrons \nbelong to the same period. The elements in the second period, namely, Li, Be, B, C, N, O, F \nand Ne have electrons in the two shells, K and L. The elements in the third period, namely, \nNa, Mg, Al, Si, P, S, Cl and Ar have electrons in the three shells; K, L and M. Write down \nthe electronic configuration of these elements and confirm. In the modern periodic table, \nelectrons are filled in the same shell while going along a period from left to right, and at the \nbeginning of the next period a new electron shell starts filling up (See the table 2.8)."
+  },
+  {
+    "chunk_id": "ch2_p34_0091",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 57,
+    "content": "The number of elements in the first three periods is determined by the electron capacity \nof the shells and the law of electron octet. (See the Table 2.9)\n1. \tWhat are the values of ‘n’ for the shells K, L and M?"
+  },
+  {
+    "chunk_id": "ch2_p34_0092",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "As per the electron holding capacity of",
+    "content_type": "prose",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 245,
+    "content": "2. \tWhat is the maximum number of electrons that can be \naccommodated in a shell? Write the formula.\n\n3.  Deduce the maximum electron capacity of the shells K, L and M.\n\nAs per the electron holding capacity of \nshells 2 elements are present in the first period \nand 8 elements in the second period. The third \nperiod also contains only eight elements due to \nthe law of electron octet. There are few more \nfactors which control the filling of electrons in \nthe subsequent periods which will be considered \nin the next standards.\n\n1. What is the relationship between the electronic configuration \nof an element and its valency?\n\n2.  The atomic number of beryllium is 4 while that of oxygen is 8. \nWrite down the electronic configuration of the two and deduce \ntheir valency from the same.\n\nThe chemical reactivity of an element is determined by the number of valence electrons \nin it and the shell number of the valence shell. The information on these points is obtained \nfrom the position of the element in the periodic table. That is, the modern periodic table has \nproved useful for study of elements."
+  },
+  {
+    "chunk_id": "ch2_p34_0093",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Periodic trends in the modern periodic table",
+    "content_type": "prose",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 222,
+    "content": "Periodic trends in the modern periodic table\nWhen the properties of elements in a period or a group of the modern periodic table are \ncompared, certain regularity is observed in their variations. It is called the periodic trends in \nthe modern periodic table. In this standard we are going to consider the periodic trends in \nonly three properties of elements; namely, valency, atomic size and metallic- nonmetallic \ncharacter. \nValency : You have learnt in the previous standard that the valency of an element is \ndetermined by the number of electrons present in the outermost shell of its atoms, that is, the \nvalence electrons.\n\n3. The table on the next page is made on the basis of the modern periodic table. Write in it the \nelectronic configuration of the first 20 elements below the symbol, and write the valency \n(as shown in a separate box). \n4. What is the periodic trend in the variation of valency while going from left to right within \na period? Explain your answer with reference to period 2 and period 3."
+  },
+  {
+    "chunk_id": "ch2_p34_0094",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 39,
+    "content": "5. What is the periodic trend in the variation of valency while going down a group? Explain \nyour answer with reference to the group 1, group 2 and group 18."
+  },
+  {
+    "chunk_id": "ch2_p34_0095",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Can you recall ?",
+    "content_type": "prose",
+    "page": 34,
+    "chapter": 2,
+    "token_count": 70,
+    "content": "Can you recall ?\n\nShell\nn\n 2n2\nElectron Capacity\nK\n1\n2x12\n2\nL\n2\n2x22\n8\nM\n3\n2x32\n18\nN\n4\n2x42\n32\n2.9  Electron Capacity of Electron shells\nThink about it"
+  },
+  {
+    "chunk_id": "ch2_p35_0096",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 61,
+    "content": "25\n1. By referring to the modern periodic table find out the \ngroups to which above the elements belong.\n\n2. Arrange the above elements vertically downwards in an increasing order of atomic radii.\n\n3. Does this arrangement match with the pattern of the group 1 of the modern periodic \ntable?"
+  },
+  {
+    "chunk_id": "ch2_p35_0097",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 15,
+    "content": "4. Which of the above elements have the biggest and the smallest atom?"
+  },
+  {
+    "chunk_id": "ch2_p35_0098",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 19,
+    "content": "5. What is the periodic trend observed in the variation of atomic radii down a group?"
+  },
+  {
+    "chunk_id": "ch2_p35_0099",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Atomic size",
+    "content_type": "prose",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 221,
+    "content": "You will find that while going down a group the atomic size goes on increasing. This is \nbecause while going down a group a new shell is added. Therefore the distance between the \noutermost electron and the nucleus goes on increasing. As a result of this the atomic size \nincreases in spite of the increased nuclear charge.\n\nAtomic size\nYou have seen in the previous \nstandards that size/volume is a fundamental \nproperty of matter. The size of an atom is \n\t\nYou will find that atomic radius \ngoes on decreasing while going from \nleft to right within a period. The \nreason behind this is as follows. \nWhile going from left to right within \na \nperiod, \nthe \natomic \nnumber \nincreases one by one, meaning the \npositive charge on the nucleus \nincreases by one unit at a time. \nHowever, the additional electron \ngets added to the same outermost \nshell. Due to the increased nuclear \ncharge the electrons are pulled \ntowards  the nucleus to a greater \nextent and thereby the size of the \natom decreases."
+  },
+  {
+    "chunk_id": "ch2_p35_0100",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Symbol",
+    "content_type": "prose",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 229,
+    "content": "Atomic radius is expressed in the unit picometer (pm) which is smaller than nanometer \n1\n18\n1\n2\n3\n4\n 2         13       14       15       16       17\nSymbol\nElectronic configuration\nValency\n19K\n2, 8, 8, 1\n1\nElement               :\t\nO     B\t   C  \t   N    Be\t     Li\nAtomic radius (pm) :\t 66   88\t   77\t    74   111   152\nElement                   :   K\t      Na     Rb     Cs\t      Li\nAtomic radius (pm):\t  231\t   186    244    262\t    152\n1. By referring to the modern periodic table find \nout the periods to which the above elements \nbelong.\n\n2. Arrange the above elements in a decreasing \norder of their atomic radii.\n\n3. Does this arrangement match with the pattern \nof the second period of the modern periodic \ntable?\n\n4. Which of the above elements have the  biggest \nand the smallest atom?"
+  },
+  {
+    "chunk_id": "ch2_p35_0101",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power !",
+    "content_type": "prose",
+    "page": 35,
+    "chapter": 2,
+    "token_count": 95,
+    "content": "5. What is the periodic trend observed in the \nvariation of atomic radius while going from \nleft to right within a period?\n\nUse your brain power !\n\nUse your brain power !\n\nindicated by its radius. Atomic radius is the distance between the nucleus of the atom and \nits outermost shell.\n\n(1 pm = 10-12 m). \n\t\nSome elements and their \natomic radii are given here.\n\nSome elements and their atomic \nradii are given here."
+  },
+  {
+    "chunk_id": "ch2_p36_0102",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Metallic- Nonmetallic Character",
+    "content_type": "prose",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 32,
+    "content": "26\nMetallic- Nonmetallic Character\n1. Look at the elements of the third period. Classify them \ninto metals and nonmetals."
+  },
+  {
+    "chunk_id": "ch2_p36_0103",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 16,
+    "content": "2. On which side of the period are the metals? Left or right?"
+  },
+  {
+    "chunk_id": "ch2_p36_0104",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "question_or_exercise",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 17,
+    "content": "3. On which side of the period  did you find the nonmetals?"
+  },
+  {
+    "chunk_id": "ch2_p36_0105",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 126,
+    "content": "It is seen that the metallic elements like sodium, magnesium are towards the left. The \nnonmetallic elements such as sulphur, chlorine are towards the right. The metalloid element \nsilicon lies in between these two types. A similar pattern is also observed in the other periods.\n\nIt is seen that the zig- zag line separates the metals from nonmetals in the periodic table. \nElements appear to have arranged in such a way that metals are on left side of this line, \nnonmetals on the right side and metalloids are along the border of this line. How did this \nhappen?"
+  },
+  {
+    "chunk_id": "ch2_p36_0106",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Use your brain power !",
+    "content_type": "prose",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 312,
+    "content": "Let us compare the characteristic chemical properties of metals and nonmetals. It is \nseen from the chemical formulae of simple ionic compounds that the cation in them is \nformed from a metal while the anion from a nonmetal. From this it is understood that metal \natoms have a tendency to form a cation by losing its valence electron, this property is called \nelectropositivity of an element. On the other hand an atom of a nonmetal has a tendency to \nform an anion by accepting electrons from outside into its valence shell. We have already \nseen that ions have a stable electronic configuration of a noble gas. How is the ability to lose \nor accept electrons in the valence shell determined? All the electrons in any atom are held \nby the attractive force exerted on them by the positively charged nucleus. Electrons in the \ninner shells lie in between the valence shell and the nucleus. Because of their presence the \neffective nuclear charge exerting an attractive force on the valence electrons is somewhat \nless than the actual nuclear charge. Thus, the number of valence electrons in metals is small \n(1 to 3). Also the effective nuclear charge exerting attractive force on the valence electrons \nis small. As a combined effect of these two factors metals have a tendency to lose the \nvalence electrons to form cations having a stable noble gas configuration. This tendency of \nan element called electropositivity is the metallic character of that element. \t\nUse your brain power !"
+  },
+  {
+    "chunk_id": "ch2_p36_0107",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Metal",
+    "content_type": "prose",
+    "page": 36,
+    "chapter": 2,
+    "token_count": 83,
+    "content": "1. decreasing atomic radius\n2. increasing electronegativity and nonmetallic character\n3. decreasing electropositivity and metallic character \n1.\tincreasing atomic radius\n2.\tdecreasing \nelectronegativity \nand \nnonmetallic \ncharacter\n3.\tIncreasing electropositivity and metallic character \nMetal \nMetalloid \nNonmetal \n2.10 Periodic Trends in elements"
+  },
+  {
+    "chunk_id": "ch2_p37_0108",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 37,
+    "chapter": 2,
+    "token_count": 48,
+    "content": "27\n1.\tWhat is the cause of nonmetallic \ncharacter  of elements?\n\n2. \tWhat is the expected trend in the \nvariation of nonmetallic character of \nelements from left to right in a period?"
+  },
+  {
+    "chunk_id": "ch2_p37_0109",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 37,
+    "chapter": 2,
+    "token_count": 306,
+    "content": "3.\tWhat would be the expected trend in \nthe variation of nonmetallic character \nof elements down a group?\t\n\t\nThe periodic trend in the metallic character of elements is clearly understood from \ntheir position is the modern periodic table. Let us first consider the metallic character of \nelements belonging to the same group. While going down a group a new shell gets added, \nresulting in an increase in the distance between the nucleus and the valence electrons. This \nresults  in lowering the effective nuclear charge and thereby lowering the attractive force \non the valence electrons. As a result of this the tendency of the atom to lose electrons \nincreases. Also the penultimate shell becomes the outermost shell on losing valence \nelectrons. The penultimate shell is a complete octet. Therefore, the resulting cation has a \nspecial stability. Due to this, the tendency of the atom to lose electrons increases further. \nThe metallic character of an atom is its tendency to lose electrons. Therefore, the following \ntrend is observed : The metallic character of elements increases while going down the \ngroup. \n\t\nWhile going from left to right within a period the outermost shell remains the same. \nHowever, the positive charge on the nucleus goes on increasing while the atomic radius \ngoes on decreasing and thus the effective nuclear charge goes on increasing. As a result of \nthis the tendency of atom to lose valence electrons decreases within a period from left to \nright (See Table 2.10)."
+  },
+  {
+    "chunk_id": "ch2_p37_0110",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Always remember",
+    "content_type": "prose",
+    "page": 37,
+    "chapter": 2,
+    "token_count": 219,
+    "content": "The two factors namely, the increasing nuclear charge and decreasing atomic radius \nas we go from left to right within a period, are responsible for increasing the effective \nnuclear charge. Therefore, the valence electrons are held with greater and greater attractive \nforce. This is called electronegativity of an atom. Due to increasing electronegativity from \nleft to right within a period, the ability of an atom to become anion by accepting outside \nelectrons goes on increasing. The tendency of an element to form anion or the electro \nnegativity is the nonmetallic character of an element.\n\n1.\t While going downwards in any group the \nelectropositivity of elements goes on increasing \nwhile their electronegativity goes on decreasing.\n\n2.\t While going from left to right in any period the \nelectronegativity of elements goes on increasing \nwhile their electropositivity goes on decreasing.\n\n3.\t Larger the electropositivity or electronegativity \nof the element higher the reactivity.\n\nAlways remember\nUse your brain power !"
+  },
+  {
+    "chunk_id": "ch2_p37_0111",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Gradation in Halogen Family",
+    "content_type": "prose",
+    "page": 37,
+    "chapter": 2,
+    "token_count": 148,
+    "content": "Gradation in Halogen Family\nThe group 17 contains the members of the halogen family. All of them have the \ngeneral formula X2. A gradation is observed in their physical state down the group. Thus, \nfluorine (F2) and chlorine (Cl2)  are gases, bromine (Br2 ) is a liquid while iodine (I2) is a \nsolid.\n\nInternet my friend\n1. Inert gas elements.\n\n2. Uses of various elements.\n\nCollect the information & \nmail it\nRead the following reference books from your library. \n1.  Understanding chemistry - C.N.R. Rao \n2.  The Periodic Table Book: A Visual Encyclopedia of the Elements"
+  },
+  {
+    "chunk_id": "ch2_p38_0112",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Column 1",
+    "content_type": "prose",
+    "page": 38,
+    "chapter": 2,
+    "token_count": 198,
+    "content": "28\n2.\t Choose the correct option and \nrewrite the statement.\t\n1.\t Rearrange the columns 2 and 3 so as to match with the column 1.\n\nColumn 1\nColumn  2\nColumn  3\ni. Triad\nii. Octave\niii. Atomic number\niv. Period\nv. Nucleus\nvi. Electron\na. Lightest and negatively charged particle in all the    \natoms\nb. Concentrated mass and positive charge\nc. Average of the first and the third atomic mass\nd. Properties of the eighth element similar to the first\ne. Positive charge on the nucleus\nf.  Sequential change in molecular formulae\n1. Mendeleev\n2. Thomson\n3. Newlands\n4. Rutherford\n5. Dobereiner\n6. Moseley\n  d.  In which block of the modern periodic \ntable are the nonmetals found?"
+  },
+  {
+    "chunk_id": "ch2_p38_0113",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 38,
+    "chapter": 2,
+    "token_count": 91,
+    "content": "(i) s-block              (ii) p-block\n      (iii) d-block            (iv) f-block\n3. \t An \nelement \nhas \nits \nelectron \nconfiguration as 2,8,2. Now answer \nthe following  questions.\n\na.\t What is the atomic number of this \t\nelement?\n\nb.\t What is the group of this element?\n\nc.\t To which period does this element \t\nbelong?"
+  },
+  {
+    "chunk_id": "ch2_p38_0114",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "N (7), Be (4) , Ar (18), Cl (17)",
+    "content_type": "prose",
+    "page": 38,
+    "chapter": 2,
+    "token_count": 231,
+    "content": "d.\t With which of the following \nelements \nwould \nthis \nelement \nresemble? (Atomic numbers are \ngiven in the brackets)\n\t\n N (7), Be (4) , Ar (18), Cl (17)\nExercise\nM + 2H2O \n M (OH)2 + H2\nA general chemical equation indicating the reaction of alkaline earth metals is \ngiven above. While going down the second group as Be\n Mg \nCa\nSr\nBa, the \ngradation in this chemical property of the alkaline earth metals is seen. While going \ndown the second group the reactivity of  the alkaline earth metals goes on increasing \nand thereby the ease with which this reaction takes place also goes on increasing. \nThus beryllium (Be) does not react with water. Magnesium (Mg) reacts with steam, \nwhile calcium (Ca), strontium (Sr) and barium (Ba) react with water at room \ntemperature with increasing rates. \nDo you know ?\n\na. The number of electrons in the \noutermost shell of alkali metals \nis......"
+  },
+  {
+    "chunk_id": "ch2_p38_0115",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Unknown",
+    "content_type": "prose",
+    "page": 38,
+    "chapter": 2,
+    "token_count": 148,
+    "content": "(i) 1 \t(ii) 2 \t (iii) 3\t  (iv) 7  \t\n\t\nb.\t Alkaline earth metals have valency \n2. This means that their position in \nthe modern periodic table is in .....\t\n(i) Group 2 \t\t\n(ii) Group16 \n\t\n\t\n(iii) Period 2 \t\n(iv) d-block \n\tc.\t Molecular formula of the chloride \t\n\t\nof an element X is XCl. This \t\n\t\n\t\ncompound is a solid  having high \t\n\t\nmelting point. Which of the \t\n\t\n\t\nfollowing elements be present in \t\t\n\t\nthe same group as X.\n\n(i)  Na   (ii) Mg   (iii) Al   (iv) Si"
+  },
+  {
+    "chunk_id": "ch2_p39_0116",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Answer",
+    "content_type": "prose",
+    "page": 39,
+    "chapter": 2,
+    "token_count": 202,
+    "content": "29\n²²²\n4.\t Write \ndown \nthe \nelectronic \nconfiguration \nof \nthe \nfollowing \nelements from the given atomic \nnumbers. \nAnswer \nthe \nfollowing \nquestion with explanation.\n\na. 3Li, 14Si, 2He, 11Na, 15P Which of these \nelements belong to be period 3?\n\nb.\t\n1H, 7N, 20Ca, 16S, 4Be, 18Ar\n\t\n\t\nWhich of these elements \nbelong to the second group? \t\nc.\t\n7N, 6C, 8O, 5B, 13A1\n\t\n\t\nWhich \nis \nthe \nmost \nelectronegative element among \nthese?\n\nd.\t\n4Be, 6C, 8O, 5B, 13A1\n\t\n\t\nWhich \nis \nthe \nmost \nelectropositive \nelement \namong \nthese?"
+  },
+  {
+    "chunk_id": "ch2_p39_0117",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Which of these has largest",
+    "content_type": "prose",
+    "page": 39,
+    "chapter": 2,
+    "token_count": 242,
+    "content": "e.\t\n11Na, 15P, 17C1, 14Si, 12Mg\n\t\n\t\nWhich of these has largest \natoms? \nf.\t  19K, 3Li, 11Na, 4Be\n\t\n\t\nWhich of these atoms has \nsmallest atomic radius?\n\ng.\t\n13A1, 14Si, 11Na, 12Mg, 16S\n\t\n\t\nWhich of the above elements \nhas the highest metallic character?\n\nh.\t\n6C, 3Li, 9F, 7N, 8O\n\t\n\t\nWhich of the above elements \nhas \nthe \nhighest \nnonmetallic \ncharacter?\n\n5.\t Write the name and symbol of the \nelement from the description.\n\na.\t The atom having the smallest size.\n\nb. \t The atom having the smallest \natomic mass.\n\nc. \t The most electronegative atom.\n\nd. \t The noble gas with the smallest \natomic radius.\n\ne. \t The most reactive nonmetal.\n\n6.\t Write short notes.\n\na. \t Mendeleev’s periodic law.\n\nb. \t Structure of the modern periodic \ntable."
+  },
+  {
+    "chunk_id": "ch2_p39_0118",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Mendeleev’s  and the modern",
+    "content_type": "prose",
+    "page": 39,
+    "chapter": 2,
+    "token_count": 242,
+    "content": "c.\t Position \nof \nisotopes \nin \nthe \nMendeleev’s  and the modern \nperiodic table.\n\n7.\t Write scientific reasons.\n\na. \t Atomic radius goes on decreasing \nwhile going from left to right in a \nperiod.\n\nb.\t Metallic \ncharacter \ngoes \non \ndecreasing while going from left to \nright in a period.\n\nc.\t Atomic radius goes on increasing \ndown a group.\n\nd.\t Elements belonging to the same \ngroup have the same valency.\n\ne. The third period contains only eight \nelements even through the electron \ncapacity of the third shell is 18 .\n\n8.\t Write the names from the description.\n\na.\t The period with electrons in the \nshells\t K, L and M. \n\t\nb. \t The group with valency zero.\n\nc.\t The family of nonmetals having \nvalency one.\n\nd. \t The family of metals having \nvalency one.\n\ne.\t The family of metals having \nvalency two.\t\n\t\nf.  The metalloids in the second and \nthird periods.\n\ng.\t Nonmetals in the third period."
+  },
+  {
+    "chunk_id": "ch2_p39_0119",
+    "source": "Science_1_SSC_Testbook.pdf",
+    "section": "Project",
+    "content_type": "prose",
+    "page": 39,
+    "chapter": 2,
+    "token_count": 36,
+    "content": "h.\t Two elements having valency 4.\n\nProject\n\t\nFind out the applications of all the \ninert gases, prepare a chart and display it \nin the class."
+  }
+]

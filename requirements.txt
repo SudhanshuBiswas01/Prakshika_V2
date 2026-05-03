@@ -1,0 +1,29 @@
+# StudyAssistant v2.0 — pinned dependencies
+# Python 3.11+ required (tested on 3.13)
+
+# LangChain stack
+langchain==0.3.*
+langchain-community==0.3.*
+langchain-openai==0.2.*
+langchain-anthropic==0.2.*
+
+# LLM providers
+openai>=1.50
+anthropic>=0.39
+
+# Vector store
+chromadb==0.5.*
+
+# PDF parsing
+pymupdf>=1.24.0
+
+# Tokenization & embeddings
+tiktoken
+sentence-transformers
+
+# Lexical retrieval
+rank_bm25
+
+# Utilities
+python-dotenv
+pandas

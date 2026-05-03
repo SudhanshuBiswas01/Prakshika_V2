@@ -1,0 +1,292 @@
+[
+  {
+    "question": "What is Newton's universal law of gravitation?",
+    "top1_chunk_id": "ch1_p11_0002",
+    "top1_score": 0.5492,
+    "top1_page": 11,
+    "top1_snippet": "Ø\t Gravitation\t\n\t\nØ    Circular motion and centripetal force\t\nØ  Kepler’s laws   \nØ    Newton’s universal law of gravitation \nØ   Acceleration due to the gravitational force of the Earth\t\nØ\t Free fall\t                   Ø  Escape velocity \n\t\nNewton thought that if the force of \ngravitation acts on a",
+    "top5": [
+      {
+        "chunk_id": "ch1_p11_0002",
+        "score": 0.5492
+      },
+      {
+        "chunk_id": "ch1_p14_0009",
+        "score": 0.4992
+      },
+      {
+        "chunk_id": "ch1_p15_0011",
+        "score": 0.4877
+      },
+      {
+        "chunk_id": "ch1_p19_0034",
+        "score": 0.4616
+      },
+      {
+        "chunk_id": "ch1_p17_0019",
+        "score": 0.4372
+      }
+    ]
+  },
+  {
+    "question": "What is the value of the universal gravitational constant G?",
+    "top1_chunk_id": "ch1_p18_0025",
+    "top1_score": 0.5899,
+    "top1_page": 18,
+    "top1_snippet": "2. What would happen if the value of G was twice as large?",
+    "top5": [
+      {
+        "chunk_id": "ch1_p18_0025",
+        "score": 0.5899
+      },
+      {
+        "chunk_id": "ch1_p19_0030",
+        "score": 0.5896
+      },
+      {
+        "chunk_id": "ch1_p14_0008",
+        "score": 0.5805
+      },
+      {
+        "chunk_id": "ch1_p18_0026",
+        "score": 0.5786
+      },
+      {
+        "chunk_id": "ch1_p19_0034",
+        "score": 0.5712
+      }
+    ]
+  },
+  {
+    "question": "How does acceleration due to gravity change with height?",
+    "top1_chunk_id": "ch1_p17_0018",
+    "top1_score": 0.5336,
+    "top1_page": 17,
+    "top1_snippet": "7\nEarth’ gravitational force\n\t\nWill the velocity of a stone thrown vertically upwards remain constant or will it change \nwith time? How will it change? Why doesn’t the stone move up all the time? Why does it fall \ndown after reaching a certain height? What does its maximum height depend on ?\n\nThe ea",
+    "top5": [
+      {
+        "chunk_id": "ch1_p17_0018",
+        "score": 0.5336
+      },
+      {
+        "chunk_id": "ch1_p22_0046",
+        "score": 0.5335
+      },
+      {
+        "chunk_id": "ch1_p19_0032",
+        "score": 0.5093
+      },
+      {
+        "chunk_id": "ch1_p17_0020",
+        "score": 0.5013
+      },
+      {
+        "chunk_id": "ch1_p19_0029",
+        "score": 0.4918
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between mass and weight?",
+    "top1_chunk_id": "ch1_p19_0033",
+    "top1_score": 0.6216,
+    "top1_page": 19,
+    "top1_snippet": "\\Weight, W = F = m g   ....   (                   )      \nG M \n  R2\ng = \n\t\nColloquially we use weight for both mass and weight and measure the weight in \nkilograms which is the unit of mass. But in scientific language when we say that Rajeev’s \nweight is 75 kg, we are talking about Rajeev’s mass. Wh",
+    "top5": [
+      {
+        "chunk_id": "ch1_p19_0033",
+        "score": 0.6216
+      },
+      {
+        "chunk_id": "ch1_p19_0034",
+        "score": 0.5634
+      },
+      {
+        "chunk_id": "ch1_p19_0032",
+        "score": 0.4959
+      },
+      {
+        "chunk_id": "ch1_p24_0051",
+        "score": 0.4719
+      },
+      {
+        "chunk_id": "ch1_p19_0031",
+        "score": 0.4199
+      }
+    ]
+  },
+  {
+    "question": "Explain Kepler's laws of planetary motion",
+    "top1_chunk_id": "ch1_p13_0006",
+    "top1_score": 0.7772,
+    "top1_page": 13,
+    "top1_snippet": "Kepler’s second law : \n\t\n The line joining the planet and the \nSun sweeps equal areas in equal intervals \nof time. \n\t\nAB and CD are distances covered by \nthe planet in equal time i.e. after equal in­\ntervals of time, the positions of the planet \nstarting from A and C are shown by B and \nD respective",
+    "top5": [
+      {
+        "chunk_id": "ch1_p13_0006",
+        "score": 0.7772
+      },
+      {
+        "chunk_id": "ch1_p13_0005",
+        "score": 0.7266
+      },
+      {
+        "chunk_id": "ch1_p15_0010",
+        "score": 0.6817
+      },
+      {
+        "chunk_id": "ch1_p12_0003",
+        "score": 0.6408
+      },
+      {
+        "chunk_id": "ch1_p11_0002",
+        "score": 0.5441
+      }
+    ]
+  },
+  {
+    "question": "What is Mendeleev's periodic table based on?",
+    "top1_chunk_id": "ch2_p28_0064",
+    "top1_score": 0.7734,
+    "top1_page": 28,
+    "top1_snippet": "Dmitri Mendeleev\n\t\nMendeleev organized the periodic table on the basis of the chemical and physical \nproperties of the elements. These were the molecular formulae of hydrides and oxides of \nthe elements, melting points, boiling points and densities of the elements and their hydrides \nand oxides. Men",
+    "top5": [
+      {
+        "chunk_id": "ch2_p28_0064",
+        "score": 0.7734
+      },
+      {
+        "chunk_id": "ch2_p29_0065",
+        "score": 0.7452
+      },
+      {
+        "chunk_id": "ch2_p31_0072",
+        "score": 0.6913
+      },
+      {
+        "chunk_id": "ch2_p30_0069",
+        "score": 0.6409
+      },
+      {
+        "chunk_id": "ch2_p29_0068",
+        "score": 0.638
+      }
+    ]
+  },
+  {
+    "question": "What are the merits of the modern periodic table?",
+    "top1_chunk_id": "ch2_p29_0065",
+    "top1_score": 0.6637,
+    "top1_page": 29,
+    "top1_snippet": "19\n1. \tThere are some vacant places in the Mendeleev’s periodic table. \nIn some of these places the atomic masses are seen to be \npredicted. Enlist three of these predicted atomic masses along \nwith their group and period.\n\n2. Due to uncertainty in the names of some of the elements, a \nquestion mark",
+    "top5": [
+      {
+        "chunk_id": "ch2_p29_0065",
+        "score": 0.6637
+      },
+      {
+        "chunk_id": "ch2_p31_0073",
+        "score": 0.6513
+      },
+      {
+        "chunk_id": "ch2_p31_0072",
+        "score": 0.6368
+      },
+      {
+        "chunk_id": "ch2_p32_0078",
+        "score": 0.6258
+      },
+      {
+        "chunk_id": "ch2_p34_0093",
+        "score": 0.6051
+      }
+    ]
+  },
+  {
+    "question": "How does atomic radius change across a period?",
+    "top1_chunk_id": "ch2_p35_0101",
+    "top1_score": 0.724,
+    "top1_page": 35,
+    "top1_snippet": "5. What is the periodic trend observed in the \nvariation of atomic radius while going from \nleft to right within a period?\n\nUse your brain power !\n\nUse your brain power !\n\nindicated by its radius. Atomic radius is the distance between the nucleus of the atom and \nits outermost shell.\n\n(1 pm = 10-12 ",
+    "top5": [
+      {
+        "chunk_id": "ch2_p35_0101",
+        "score": 0.724
+      },
+      {
+        "chunk_id": "ch2_p35_0099",
+        "score": 0.6757
+      },
+      {
+        "chunk_id": "ch2_p35_0098",
+        "score": 0.6617
+      },
+      {
+        "chunk_id": "ch2_p35_0100",
+        "score": 0.6004
+      },
+      {
+        "chunk_id": "ch2_p39_0118",
+        "score": 0.4942
+      }
+    ]
+  },
+  {
+    "question": "What is the electronic configuration of elements in group 1?",
+    "top1_chunk_id": "ch2_p32_0080",
+    "top1_score": 0.816,
+    "top1_page": 32,
+    "top1_snippet": "2. Write the electronic configuration of the first  four elements in \nthis group.",
+    "top5": [
+      {
+        "chunk_id": "ch2_p32_0080",
+        "score": 0.816
+      },
+      {
+        "chunk_id": "ch2_p32_0078",
+        "score": 0.7049
+      },
+      {
+        "chunk_id": "ch2_p32_0079",
+        "score": 0.6015
+      },
+      {
+        "chunk_id": "ch2_p33_0084",
+        "score": 0.5907
+      },
+      {
+        "chunk_id": "ch2_p35_0096",
+        "score": 0.5695
+      }
+    ]
+  },
+  {
+    "question": "What is the law of octaves given by Newlands?",
+    "top1_chunk_id": "ch2_p27_0061",
+    "top1_score": 0.6766,
+    "top1_page": 27,
+    "top1_snippet": "Musical \nNote\nDo\n(Sa)\nRe\n(Re)\nMi\n(Ga)\nFa\n(Ma)\nSo\n(Pa)\nLa\n(Dha) \nTi\n(Ni)\nElements\nH\nF\nCl\nCo &Ni\nBr\nLi\nNa\nK\nCu\nRb\nBe\nMg\nCa\nZn\nSr\nB\nAl\nCr\nY\nCe & La\nC\nSi\nTi\nIn\nZr\nN\nP\nMn\nAs\nO\nS\nFe\nSe\n2.2 Newlands’ Octaves\nMany limitation were found in Newlands’ octaves. This law was found to be applicable \nonly up to ca",
+    "top5": [
+      {
+        "chunk_id": "ch2_p27_0061",
+        "score": 0.6766
+      },
+      {
+        "chunk_id": "ch2_p27_0060",
+        "score": 0.5158
+      },
+      {
+        "chunk_id": "ch2_p27_0062",
+        "score": 0.4331
+      },
+      {
+        "chunk_id": "ch1_p14_0008",
+        "score": 0.2876
+      },
+      {
+        "chunk_id": "ch2_p38_0112",
+        "score": 0.2755
+      }
+    ]
+  }
+]
