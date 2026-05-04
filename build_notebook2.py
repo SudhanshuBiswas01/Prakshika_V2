@@ -1,0 +1,214 @@
+import json
+
+notebook = {
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# StudyAssistant v2.0: LCEL + CRAG Pipeline\n",
+    "\n",
+    "This notebook demonstrates the end-to-end pipeline for the SSC Science 1 (Class 9) textbook using LangChain Expression Language (LCEL) and a Corrective RAG (CRAG) grading step."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 1. Environment Setup"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import os, json\n",
+    "from dotenv import load_dotenv\n",
+    "\n",
+    "load_dotenv()\n",
+    "if not os.getenv(\"GROQ_API_KEY\"):\n",
+    "    print(\"WARNING: GROQ_API_KEY not found in .env\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 2. Load Custom Chunks\n",
+    "We use the custom chunks generated in Stage 1 because they contain structural metadata (`prose` vs `question_or_exercise`) which is critical for accurate retrieval."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import json\n",
+    "from langchain_core.documents import Document\n",
+    "\n",
+    "with open(\"wk10_chunks.json\", \"r\", encoding=\"utf-8\") as f:\n",
+    "    raw_chunks = json.load(f)\n",
+    "\n",
+    "docs = []\n",
+    "for c in raw_chunks:\n",
+    "    docs.append(Document(\n",
+    "        page_content=c[\"content\"],\n",
+    "        metadata={\n",
+    "            \"chunk_id\": c[\"chunk_id\"],\n",
+    "            \"page\": c[\"page\"],\n",
+    "            \"content_type\": c[\"content_type\"]\n",
+    "        }\n",
+    "    ))\n",
+    "print(f\"Loaded {len(docs)} documents.\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 3. Vector Database (Chroma + HuggingFace)\n",
+    "Using `langchain-chroma` to manage our vectorstore."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from langchain_chroma import Chroma\n",
+    "from langchain_huggingface import HuggingFaceEmbeddings\n",
+    "\n",
+    "embeddings = HuggingFaceEmbeddings(model_name=\"all-MiniLM-L6-v2\")\n",
+    "\n",
+    "vectorstore = Chroma.from_documents(\n",
+    "    documents=docs,\n",
+    "    embedding=embeddings,\n",
+    "    persist_directory=\"./chroma_lcel\",\n",
+    "    collection_name=\"ssc_science_lcel\"\n",
+    ")\n",
+    "\n",
+    "# We implement a custom retriever that penalizes 'question_or_exercise' chunks\n",
+    "# However, for LCEL, we'll start with the standard retriever, and rely on the CRAG grader to filter bad docs.\n",
+    "retriever = vectorstore.as_retriever(search_kwargs={\"k\": 5})"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 4. LCEL Generation Chain\n",
+    "A standard Retrieval-Augmented Generation chain using LangChain Expression Language."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from langchain_groq import ChatGroq\n",
+    "from langchain_core.prompts import ChatPromptTemplate\n",
+    "from langchain_core.runnables import RunnablePassthrough\n",
+    "from langchain_core.output_parsers import StrOutputParser\n",
+    "\n",
+    "llm = ChatGroq(model=\"llama-3.1-8b-instant\", temperature=0)\n",
+    "\n",
+    "template = \"\"\"Answer only using the provided context. After every factual claim, cite the source as [Source: chunk_id]. If the answer is not present in the context, reply exactly: 'I don't have that in my study materials.' Do not infer or extrapolate beyond the context.\n",
+    "\n",
+    "Context:\n",
+    "{context}\n",
+    "\n",
+    "Question: {question}\n",
+    "\"\"\"\n",
+    "\n",
+    "prompt = ChatPromptTemplate.from_template(template)\n",
+    "\n",
+    "def format_docs(docs):\n",
+    "    return \"\\n\\n\".join(f\"[chunk_id: {d.metadata['chunk_id']} | page: {d.metadata['page']}]\\n{d.page_content}\" for d in docs)\n",
+    "\n",
+    "rag_chain = (\n",
+    "    {\"context\": retriever | format_docs, \"question\": RunnablePassthrough()}\n",
+    "    | prompt\n",
+    "    | llm\n",
+    "    | StrOutputParser()\n",
+    ")\n",
+    "\n",
+    "# Test the basic chain\n",
+    "print(rag_chain.invoke(\"What is Newton's universal law of gravitation?\"))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "## 5. Corrective RAG (CRAG) Grader\n",
+    "To prevent the LLM from hallucinating or answering based on irrelevant chunks (like exercise questions), we add a 'Grader' step. If the retrieved documents aren't relevant to the query, we return a fallback response."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": None,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "from pydantic import BaseModel, Field\n",
+    "\n",
+    "class Grade(BaseModel):\n",
+    "    binary_score: str = Field(description=\"Relevance score 'yes' or 'no'\")\n",
+    "\n",
+    "# Create a grading chain with structured output\n",
+    "grader_prompt = ChatPromptTemplate.from_messages([\n",
+    "    (\"system\", \"You are a grader assessing relevance of a retrieved document to a user question. If the document contains factual information related to the question, grade it as 'yes'. If the document is just a textbook exercise asking the same question but providing no answer, grade it as 'no'.\"),\n",
+    "    (\"human\", \"Retrieved document: \\n\\n {document} \\n\\n User question: {question}\")\n",
+    "])\n",
+    "\n",
+    "structured_llm = llm.with_structured_output(Grade)\n",
+    "grader_chain = grader_prompt | structured_llm\n",
+    "\n",
+    "def crag_retrieve_and_generate(question: str):\n",
+    "    # 1. Retrieve\n",
+    "    docs = retriever.invoke(question)\n",
+    "    \n",
+    "    # 2. Grade\n",
+    "    relevant_docs = []\n",
+    "    for d in docs:\n",
+    "        grade = grader_chain.invoke({\"document\": d.page_content, \"question\": question})\n",
+    "        if grade.binary_score == \"yes\" and d.metadata.get(\"content_type\") != \"question_or_exercise\":\n",
+    "            relevant_docs.append(d)\n",
+    "            \n",
+    "    # 3. Generate or Fallback\n",
+    "    if not relevant_docs:\n",
+    "        return \"I don't have that in my study materials. (Filtered by CRAG Grader)\"\n",
+    "        \n",
+    "    context = format_docs(relevant_docs)\n",
+    "    final_prompt = prompt.invoke({\"context\": context, \"question\": question})\n",
+    "    response = llm.invoke(final_prompt)\n",
+    "    return response.content\n",
+    "\n",
+    "# Test CRAG on the tricky 'Value of G' question\n",
+    "print(crag_retrieve_and_generate(\"What is the value of the gravitational constant G?\"))"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.13"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
+
+with open("notebook.ipynb", "w", encoding="utf-8") as f:
+    json.dump(notebook, f, indent=2)
+print("Notebook JSON generated.")
