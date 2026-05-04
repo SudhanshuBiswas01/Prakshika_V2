@@ -1,0 +1,36 @@
+id,type,question,answer,chunk_ids,sources
+1,direct,What is Newton's universal law of gravitation?,Newton's universal law of gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. The force is proportional to the product of their masses and inversely proportional to the square of the distance between their centers. [Source: ch1_p14_0009],ch1_p11_0002; ch1_p14_0009; ch1_p15_0011; ch1_p19_0034; ch1_p17_0019,page 11; page 14; page 15; page 19; page 17
+2,direct,What is the value of the gravitational constant G?,I don't have that in my study materials.,ch1_p19_0030; ch1_p18_0025; ch1_p18_0026; ch1_p19_0034; ch1_p18_0023,page 19; page 18; page 18; page 19; page 18
+3,direct,State Kepler's three laws of planetary motion.,"Kepler's three laws of planetary motion are:
+
+1. The straight lines AS and CS sweep equal area in equal interval of time i.e. area ASB and CSD are equal. [Source: ch1_p13_0005]
+2. The line joining the planet and the Sun sweeps equal areas in equal intervals of time. [Source: ch1_p13_0006]
+3. The square of its period of revolution around the Sun is directly proportional to the cube of the mean distance of a planet from the Sun. [Source: ch1_p13_0006]",ch1_p13_0005; ch1_p13_0006; ch1_p15_0010; ch1_p12_0003; ch1_p13_0007,page 13; page 13; page 15; page 12; page 13
+4,direct,What is the difference between mass and weight?,"Mass is the amount of matter present in the object, and its SI unit is kg. It is a scalar quantity and its value is the same everywhere. On the other hand, weight is the force with which the earth attracts the object, and its SI unit is Newton. [Source: ch1_p19_0032]",ch1_p19_0033; ch1_p19_0034; ch1_p19_0032; ch1_p24_0051; ch1_p19_0031,page 19; page 19; page 19; page 24; page 19
+5,direct,What are the merits of Mendeleev's periodic table?,"The merits of Mendeleev's periodic table are as follows:
+
+1. Science is progressive, and there is a freedom in science to revise the old inference by using more advanced means and methods of doing experiments. 
+[Source: ch2_p29_0065]
+
+2. While applying the law that the properties of elements are a periodic function of their atomic masses, to all the known elements, Mendeleev arranged the elements with a thought that the information available till then was not final but it could change. 
+[Source: ch2_p29_0065]
+
+3. As a result of this, Mendeleev's periodic table demonstrates the following merits. 
+[Source: ch2_p29_0065]
+
+However, the context does not explicitly mention the merits of Mendeleev's periodic table. The given text only mentions that Mendeleev's periodic table demonstrates merits due to its progressive nature and the fact that it was arranged with the thought that the information available was not final.",ch2_p29_0065; ch2_p31_0072; ch2_p28_0064; ch2_p30_0070; ch2_p30_0069,page 29; page 31; page 28; page 30; page 30
+6,direct,What is the modern periodic law?,The modern periodic law is: Properties of elements are a periodic function of their atomic numbers. [Source: ch2_p30_0070],ch2_p30_0070; ch2_p32_0078; ch2_p35_0098; ch2_p34_0093; ch2_p28_0064,page 30; page 32; page 35; page 34; page 28
+7,paraphrased,How does the gravitational pull between two objects depend on their masses and distance?,"According to the given context, if the mass of one object is doubled, the force between the two objects also doubles. [Source: ch1_p14_0009]
+
+Also, if the distance is doubled, the force decreases by a factor of 4. [Source: ch1_p14_0009]
+
+The gravitational force is inversely proportional to the square of the distance between the two objects. [Source: ch1_p15_0011]
+
+The gravitational force is directly proportional to the product of the masses of the two objects. [Source: ch1_p17_0019]",ch1_p14_0009; ch1_p15_0011; ch1_p19_0034; ch1_p19_0032; ch1_p17_0019,page 14; page 15; page 19; page 19; page 17
+8,paraphrased,Why do elements in the same group of the periodic table show similar properties?,"Elements in the same group of the periodic table show similar properties because of their electronic configuration. [Source: ch2_p32_0078]
+
+I don't have that in my study materials.",ch2_p32_0078; ch2_p32_0083; ch2_p31_0073; ch2_p35_0096; ch2_p30_0069,page 32; page 32; page 31; page 35; page 30
+9,paraphrased,"If I go to the top of a mountain, will my weight change? Explain.","No, your weight will not change. According to the table in [chunk_id: ch1_p19_0029 | page: 19], the value of g (acceleration due to gravity) at the top of Mount Everest is still 9.8 m/s^2, which is the same as at the surface of the earth. This is because the height of Mount Everest (8.8 km) is relatively small compared to the radius of the earth (6400 km), and the change in the value of g due to this height is negligible. [Source: ch1_p19_0029]",ch1_p19_0032; ch1_p19_0029; ch1_p18_0028; ch1_p19_0034; ch1_p17_0018,page 19; page 19; page 18; page 19; page 17
+10,oos,What is the boiling point of water at different altitudes?,I don't have that in my study materials.,ch1_p19_0030; ch1_p19_0029; ch1_p18_0028; ch1_p16_0016; ch1_p23_0049,page 19; page 19; page 18; page 16; page 23
+11,oos,What is the atomic mass of the element with atomic number 118?,I don't have that in my study materials.,ch2_p35_0097; ch2_p26_0059; ch2_p29_0066; ch2_p39_0117; ch2_p30_0070,page 35; page 26; page 29; page 39; page 30
+12,oos,Explain the process of photosynthesis in detail.,I don't have that in my study materials.,ch1_p13_0007; ch2_p37_0111; ch2_p26_0056; ch2_p35_0098; ch2_p39_0119,page 13; page 37; page 26; page 35; page 39

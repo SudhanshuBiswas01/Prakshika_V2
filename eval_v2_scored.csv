@@ -1,0 +1,13 @@
+id,type,question,answer_preview,correct,grounded,refused_when_oos
+1,direct,What is Newton's universal law of gravitation?,Newton's universal law of gravitation states that every point mass attracts every other point mass by a force acting along the line intersecting both points. The force is proportional to the product o,Y,Y,NA
+2,direct,What is the value of the gravitational constant G?,The value of the gravitational constant G is 6.673 x 10^-11 N m^2 kg^-2. [Source: ch1_p14_0008],Y,Y,NA
+3,direct,State Kepler's three laws of planetary motion.,Kepler's three laws of planetary motion are:  1. The straight lines AS and CS sweep equal area in equal interval of time i.e. area ASB and CSD are equal. [Source: ch1_p13_0005] 2. The line joining the,Y,Y,NA
+4,direct,What is the difference between mass and weight?,"Mass is the amount of matter present in the object, and its SI unit is kg. It is a scalar quantity and its value is the same everywhere. On the other hand, weight is the force with which the earth att",Y,Y,NA
+5,direct,What are the merits of Mendeleev's periodic table?,"The merits of Mendeleev's periodic table are as follows:  1. Science is progressive, and there is a freedom in science to revise the old inference by using more advanced means and methods of doing exp",Y,Y,NA
+6,direct,What is the modern periodic law?,The modern periodic law is: 'Properties of elements are a periodic function of their atomic numbers.' [Source: ch2_p30_0070],Y,Y,NA
+7,paraphrased,How does the gravitational pull between two objects depend on their masses and distance?,"According to the given context, if the mass of one object is doubled, the force between the two objects also doubles. [Source: ch1_p14_0009]  Also, if the distance is doubled, the force decreases by a",Y,Y,NA
+8,paraphrased,Why do elements in the same group of the periodic table show similar properties?,Elements in the same group of the periodic table show similar properties because of their electronic configuration. [Source: ch2_p32_0078]  I don't have that in my study materials.,N,Y,NA
+9,paraphrased,"If I go to the top of a mountain, will my weight change? Explain.","No, your weight will not change. According to the table in [chunk_id: ch1_p19_0029 | page: 19], the value of g (acceleration due to gravity) at the top of Mount Everest is still 9.8 m/s^2, which is th",Y,Y,NA
+10,oos,What is the boiling point of water at different altitudes?,I don't have that in my study materials.,NA,NA,Y
+11,oos,What is the atomic mass of the element with atomic number 118?,I don't have that in my study materials.,NA,NA,Y
+12,oos,Explain the process of photosynthesis in detail.,I don't have that in my study materials.,NA,NA,Y
