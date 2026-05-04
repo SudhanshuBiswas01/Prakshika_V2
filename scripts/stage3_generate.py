@@ -140,7 +140,7 @@ for q in test_queries:
 
 
 # ── Save prompt_diff.md ──────────────────────────────────────────────────────
-with open("prompt_diff.md", "w", encoding="utf-8") as f:
+with open("docs/prompt_diff.md", "w", encoding="utf-8") as f:
     f.write("# Prompt Diff: Permissive vs Strict\n\n")
     f.write("Comparison of responses using permissive vs strict system prompts.\n")
     f.write(f"Model: `{GROQ_MODEL}` | temperature=0\n\n---\n\n")

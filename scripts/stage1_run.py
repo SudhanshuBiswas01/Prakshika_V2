@@ -3,7 +3,7 @@ from rank_bm25 import BM25Okapi
 from collections import Counter
 
 PDF_PATH = "Science_1_SSC_Testbook.pdf"
-CHUNKS_FILE = "wk10_chunks.json"
+CHUNKS_FILE = "data/wk10_chunks.json"
 ENC = tiktoken.get_encoding("cl100k_base")
 MAX_TOKENS = 250
 

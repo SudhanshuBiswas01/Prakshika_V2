@@ -13,11 +13,11 @@ from sentence_transformers import SentenceTransformer
 
 load_dotenv()
 
-CHUNKS_FILE   = "wk10_chunks.json"
+CHUNKS_FILE   = "data/wk10_chunks.json"
 CHROMA_PATH   = "./chroma_wk10"
 COLLECTION    = "ssc_science_v2"
 EMBED_MODEL   = "all-MiniLM-L6-v2"   # 384-dim, fast, good quality
-RETRIEVAL_LOG = "retrieval_log.json"
+RETRIEVAL_LOG = "data/retrieval_log.json"
 
 # ── Load chunks ───────────────────────────────────────────────────────────────
 with open(CHUNKS_FILE, encoding="utf-8") as f:

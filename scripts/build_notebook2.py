@@ -49,7 +49,7 @@ notebook = {
     "import json\n",
     "from langchain_core.documents import Document\n",
     "\n",
-    "with open(\"wk10_chunks.json\", \"r\", encoding=\"utf-8\") as f:\n",
+    "with open(\"data/wk10_chunks.json\", \"r\", encoding=\"utf-8\") as f:\n",
     "    raw_chunks = json.load(f)\n",
     "\n",
     "docs = []\n",
