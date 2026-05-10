@@ -6,7 +6,7 @@
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-VectorStore-red)
 ![SentenceTransformers](https://img.shields.io/badge/Embeddings-MiniLM-yellow)
 
-**Prakshika** is a production-grade, retrieval-augmented generation (RAG) study assistant built specifically on the Maharashtra SSC Board Science 1 (Class 9) textbook. It provides students with highly accurate, grounded answers, complete with exact source chunk and page citations.
+**Prakshika** is a production-grade, retrieval-augmented generation (RAG) study assistant built specifically on the Maharashtra SSC Board Science 1 (Class 10) textbook. It provides students with highly accurate, grounded answers, complete with exact source chunk and page citations.
 
 ---
 
